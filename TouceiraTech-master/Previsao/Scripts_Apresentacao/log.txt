@@ -1,0 +1,90 @@
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-03 17:17:24.596055
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-03 17:17:24.986588
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-03 17:18:53.802540
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-03 17:18:53.943132
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-03 17:22:50.537811
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-03 17:22:50.717740
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-03 18:07:02.610712
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-03 18:07:02.923875
+
+------ Excecução iniciada em: 2021-04-03 18:10:34.516768
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-03 18:21:24.049554
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-03 18:21:24.316832
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-03 18:22:29.885640
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-03 18:22:30.182433
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-03 18:23:10.037666
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-03 18:23:10.193879
+
+------ Excecução iniciada em: 2021-04-03 18:26:29.458290
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-04 15:13:05.370214
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-04 15:13:06.327916
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-04 15:34:44.468251
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-04 15:34:44.684830
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-04 15:41:35.727862
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-04 15:41:36.123805
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-04 15:50:03.795327
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-04 15:50:04.140374
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-04 15:53:55.653589
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-04 15:53:55.934773
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-04-04 15:58:30.173859
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-04-04 15:58:30.423829
+
+------ Excecução iniciada em: 2021-04-04 16:02:45.932836
+
+------ Excecução iniciada em: 2021-04-28 19:08:38.188192
+
+------ Excecução P20 Infestado encerrada em: 2021-04-28 19:09:15.270469
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-28 19:09:15.273292
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-28 19:09:51.682434
+
+------ Excecução P21 Infestado iniciada em: 2021-04-28 19:09:51.682434
+
+------ Excecução P21 Infestado encerrada em: 2021-04-28 19:10:28.155142
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-28 19:10:28.156146
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-28 19:11:05.564561
+
+------ Excecução iniciada em: 2021-04-28 19:19:39.788274
+
+------ Excecução P20 Infestado encerrada em: 2021-04-28 19:20:21.053376
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-28 19:20:21.053376
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-28 19:21:02.159962
+
+------ Excecução P21 Infestado iniciada em: 2021-04-28 19:21:02.160960
+
+------ Excecução P21 Infestado encerrada em: 2021-04-28 19:21:42.978002
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-28 19:21:42.978002
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-28 19:22:21.191955
+

@@ -1,0 +1,1 @@
+select data, tmin, tmed, tmax, umidade, velocidadevento from clima_evapo order by data;

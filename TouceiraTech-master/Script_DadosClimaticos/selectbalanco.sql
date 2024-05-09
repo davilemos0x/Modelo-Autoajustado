@@ -1,0 +1,1 @@
+select data, chuva, evapo from clima_evapo order by data;

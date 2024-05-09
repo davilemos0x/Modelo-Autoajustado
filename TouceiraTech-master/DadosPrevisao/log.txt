@@ -1,0 +1,297 @@
+------ Excecução iniciada em: 2021-01-20 00:47:10.779455
+
+
+Falha na conexão com o BD!------ Excecução iniciada em: 2021-01-20 00:47:50.760694
+
+------ Excecução iniciada em: 2021-01-20 00:48:14.381531
+
+------ Excecução iniciada em: 2021-01-20 00:53:06.571619
+
+------ Excecução iniciada em: 2021-01-20 00:53:21.361090
+
+------ Excecução iniciada em: 2021-01-20 01:11:06.569120
+
+------ Excecução iniciada em: 2021-01-20 01:22:47.632101
+
+------ Excecução iniciada em: 2021-01-20 01:29:57.662440
+
+------ Excecução iniciada em: 2021-01-20 01:33:31.082092
+
+------ Excecução iniciada em: 2021-01-20 01:41:47.458163
+
+------ Excecução iniciada em: 2021-01-20 01:42:53.474945
+
+------ Excecução iniciada em: 2021-01-20 01:43:04.961396
+
+------ Excecução iniciada em: 2021-01-20 01:45:40.358126
+
+------ Excecução iniciada em: 2021-01-20 01:46:13.779268
+
+------ Excecução iniciada em: 2021-01-20 01:46:31.718505
+
+------ Excecução iniciada em: 2021-01-20 02:02:28.859527
+
+------ Excecução iniciada em: 2021-01-20 02:18:17.729440
+
+------ Excecução iniciada em: 2021-01-20 02:23:13.316642
+
+------ Excecução iniciada em: 2021-01-20 02:24:54.440035
+
+------ Excecução iniciada em: 2021-01-20 02:25:48.922109
+
+------ Excecução iniciada em: 2021-01-20 02:28:23.039354
+
+------ Excecução iniciada em: 2021-01-20 02:29:15.004660
+
+------ Excecução iniciada em: 2021-01-20 02:29:31.363728
+
+------ Excecução iniciada em: 2021-01-20 02:32:41.530134
+
+------ Excecução iniciada em: 2021-01-20 02:39:35.088561
+
+------ Excecução iniciada em: 2021-01-20 02:40:23.113295
+
+------ Excecução iniciada em: 2021-01-20 02:42:10.041413
+
+------ Excecução iniciada em: 2021-01-20 02:46:17.706510
+
+------ Excecução iniciada em: 2021-01-20 02:47:05.706759
+
+------ Excecução iniciada em: 2021-01-20 02:47:25.494864
+
+------ Excecução iniciada em: 2021-01-20 02:54:16.615065
+
+------ Excecução iniciada em: 2021-01-20 02:54:53.301979
+
+------ Excecução iniciada em: 2021-01-20 02:56:30.255160
+
+------ Excecução iniciada em: 2021-01-20 02:57:03.113419
+
+------ Excecução iniciada em: 2021-01-20 02:59:36.414373
+
+------ Excecução iniciada em: 2021-01-20 03:00:19.085578
+
+------ Excecução iniciada em: 2021-01-20 03:01:57.145659
+
+------ Excecução iniciada em: 2021-01-20 03:04:21.849182
+
+------ Excecução iniciada em: 2021-01-20 03:13:33.067216
+
+------ Excecução iniciada em: 2021-01-20 03:18:01.207921
+
+------ Excecução iniciada em: 2021-01-20 03:19:56.373018
+
+------ Excecução iniciada em: 2021-01-20 03:21:53.422440
+
+------ Excecução iniciada em: 2021-01-20 03:22:08.381493
+
+------ Excecução iniciada em: 2021-01-20 03:23:02.785355
+
+------ Excecução iniciada em: 2021-01-20 03:23:50.940776
+
+------ Excecução iniciada em: 2021-01-20 03:25:14.617737
+
+------ Excecução iniciada em: 2021-01-20 03:26:02.140659
+
+------ Excecução iniciada em: 2021-01-20 03:26:20.383078
+
+------ Excecução iniciada em: 2021-01-20 03:26:40.924758
+
+------ Excecução iniciada em: 2021-01-20 03:35:55.643102
+
+------ Excecução iniciada em: 2021-01-20 03:36:44.184158
+
+------ Excecução iniciada em: 2021-01-20 03:37:08.484356
+
+------ Excecução iniciada em: 2021-01-20 03:38:41.431201
+
+------ Excecução iniciada em: 2021-01-20 03:39:45.989790
+
+------ Excecução iniciada em: 2021-01-20 03:40:02.412784
+
+------ Excecução iniciada em: 2021-01-20 03:42:55.697400
+
+------ Excecução iniciada em: 2021-01-20 03:46:01.583459
+
+------ Excecução iniciada em: 2021-01-20 03:47:14.798299
+
+------ Excecução iniciada em: 2021-01-20 03:47:25.443339
+
+------ Excecução iniciada em: 2021-01-20 03:55:07.265335
+
+------ Excecução iniciada em: 2021-01-20 03:55:31.090606
+
+------ Excecução iniciada em: 2021-01-20 03:56:11.651640
+
+------ Excecução iniciada em: 2021-01-20 03:56:37.363065
+
+------ Excecução iniciada em: 2021-01-20 03:57:12.817108
+
+------ Excecução iniciada em: 2021-01-20 03:57:46.383199
+
+------ Excecução iniciada em: 2021-01-20 03:58:08.603048
+
+------ Excecução iniciada em: 2021-01-20 03:59:32.952464
+
+------ Excecução iniciada em: 2021-01-20 04:00:04.257500
+
+------ Excecução iniciada em: 2021-01-20 04:00:49.950879
+
+------ Excecução iniciada em: 2021-01-20 04:04:26.832835
+
+------ Excecução iniciada em: 2021-01-20 04:05:28.620798
+
+------ Excecução iniciada em: 2021-01-20 04:06:16.477226
+
+------ Excecução iniciada em: 2021-01-20 04:08:25.775282
+
+------ Excecução iniciada em: 2021-01-20 04:08:52.160462
+
+------ Excecução iniciada em: 2021-01-20 04:09:42.676570
+
+------ Excecução iniciada em: 2021-01-20 04:09:49.770465
+
+------ Excecução iniciada em: 2021-01-20 04:11:19.342615
+
+------ Excecução iniciada em: 2021-01-20 04:15:34.562593
+
+------ Excecução iniciada em: 2021-01-20 04:16:14.278979
+
+------ Excecução iniciada em: 2021-01-20 04:16:35.611849
+
+------ Excecução iniciada em: 2021-01-20 04:18:06.535070
+
+------ Excecução iniciada em: 2021-01-20 04:18:26.235337
+
+------ Excecução iniciada em: 2021-01-20 04:18:48.470236
+
+------ Excecução iniciada em: 2021-01-20 04:21:04.160060
+
+------ Excecução iniciada em: 2021-01-20 04:21:24.742136
+
+------ Excecução iniciada em: 2021-01-20 04:23:03.115923
+
+------ Excecução iniciada em: 2021-01-20 04:23:15.755531
+
+------ Excecução iniciada em: 2021-01-20 04:24:23.004636
+
+------ Excecução iniciada em: 2021-01-20 04:25:28.172878
+
+------ Excecução iniciada em: 2021-01-20 04:26:09.397432
+
+------ Excecução iniciada em: 2021-01-20 04:27:01.295443
+
+------ Excecução iniciada em: 2021-01-20 04:28:45.291556
+
+------ Excecução iniciada em: 2021-01-20 04:29:00.254684
+
+------ Excecução iniciada em: 2021-01-20 04:31:19.788792
+
+------ Excecução iniciada em: 2021-01-20 04:32:35.848713
+
+------ Excecução iniciada em: 2021-01-20 04:33:49.958592
+
+------ Excecução iniciada em: 2021-01-20 04:36:19.738848
+
+------ Excecução iniciada em: 2021-01-20 04:41:04.749896
+
+------ Excecução iniciada em: 2021-01-20 04:42:32.448950
+
+------ Excecução iniciada em: 2021-01-20 04:43:30.037269
+
+------ Excecução iniciada em: 2021-01-20 04:43:59.226026
+
+------ Excecução iniciada em: 2021-01-21 11:31:41.987915
+
+------ Excecução iniciada em: 2021-01-21 11:32:46.098273
+
+------ Excecução iniciada em: 2021-01-21 11:33:09.181026
+
+------ Excecução iniciada em: 2021-02-07 09:09:13.216165
+
+------ Excecução iniciada em: 2021-02-07 09:16:40.639693
+
+------ Excecução iniciada em: 2021-02-07 09:18:04.629612
+
+------ Excecução iniciada em: 2021-02-07 09:19:03.885298
+
+------ Excecução iniciada em: 2021-02-07 10:16:48.319695
+
+------ Excecução iniciada em: 2021-02-07 10:17:02.088696
+
+------ Excecução iniciada em: 2021-02-07 10:21:12.312007
+
+------ Excecução iniciada em: 2021-02-07 10:26:23.696246
+
+------ Excecução iniciada em: 2021-02-07 10:27:36.535481
+
+------ Excecução iniciada em: 2021-02-07 10:27:48.227428
+
+------ Excecução iniciada em: 2021-03-14 17:40:17.334567
+
+------ Excecução iniciada em: 2021-03-14 17:42:04.245221
+
+------ Excecução iniciada em: 2021-03-14 17:42:43.246752
+
+------ Excecução iniciada em: 2021-03-14 20:01:56.807201
+
+------ Excecução iniciada em: 2021-03-14 20:02:58.487391
+
+------ Excecução iniciada em: 2021-03-14 20:05:24.184876
+
+------ Excecução iniciada em: 2021-03-14 20:06:09.719561
+
+------ Excecução iniciada em: 2021-03-14 20:06:37.244647
+
+------ Excecução iniciada em: 2021-03-14 20:07:46.299390
+
+------ Excecução iniciada em: 2021-03-14 20:18:57.259616
+
+------ Excecução iniciada em: 2021-03-14 20:19:20.783160
+
+------ Excecução iniciada em: 2021-03-14 23:37:13.285362
+
+------ Excecução iniciada em: 2021-03-15 00:04:22.518196
+
+------ Excecução iniciada em: 2021-03-15 00:05:49.993316
+
+------ Excecução iniciada em: 2021-03-15 00:05:55.185388
+
+------ Excecução iniciada em: 2021-04-03 15:55:01.250096
+
+------ Excecução iniciada em: 2021-04-03 16:05:25.025712
+
+------ Excecução iniciada em: 2021-04-03 16:10:57.983217
+
+------ Excecução iniciada em: 2021-04-03 16:15:02.522473
+
+------ Excecução iniciada em: 2021-04-03 16:19:26.944896
+
+------ Excecução iniciada em: 2021-04-03 16:23:47.328457
+
+------ Excecução iniciada em: 2021-04-03 16:28:30.309541
+
+------ Excecução iniciada em: 2021-04-03 16:46:52.214804
+
+------ Excecução iniciada em: 2021-04-03 16:50:56.749607
+
+------ Excecução iniciada em: 2021-04-03 16:54:34.220959
+
+------ Excecução iniciada em: 2021-04-03 16:58:44.899395
+
+------ Excecução iniciada em: 2021-04-03 17:01:37.521691
+
+------ Excecução iniciada em: 2021-04-03 17:05:55.699488
+
+------ Excecução iniciada em: 2021-04-03 17:09:10.956602
+
+------ Excecução iniciada em: 2021-04-03 17:10:25.725141
+
+------ Excecução iniciada em: 2021-04-03 18:19:11.311210
+
+------ Excecução iniciada em: 2021-04-03 18:19:25.548205
+
+------ Excecução iniciada em: 2021-04-04 17:11:12.611925
+
+------ Excecução iniciada em: 2021-04-04 17:11:27.400401
+

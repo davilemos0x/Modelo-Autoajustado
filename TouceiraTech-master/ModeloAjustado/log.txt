@@ -1,0 +1,5115 @@
+------ Excecução iniciada em: 2021-03-11 10:53:54.883190
+
+------ Excecução iniciada em: 2021-03-11 10:54:57.211038
+
+------ Excecução iniciada em: 2021-03-11 10:55:05.641155
+
+------ Excecução iniciada em: 2021-03-11 10:55:14.946573
+
+------ Excecução iniciada em: 2021-03-11 11:02:47.954956
+
+------ Excecução iniciada em: 2021-03-11 11:03:53.333919
+
+------ Excecução iniciada em: 2021-03-11 11:04:31.567060
+
+------ Excecução iniciada em: 2021-03-11 14:48:22.705383
+
+------ Excecução iniciada em: 2021-03-11 14:48:50.292679
+
+------ Excecução iniciada em: 2021-03-11 14:48:58.134628
+
+------ Excecução iniciada em: 2021-03-11 14:49:05.585975
+
+------ Excecução iniciada em: 2021-03-11 14:49:13.068600
+
+------ Excecução iniciada em: 2021-03-11 14:49:21.957145
+
+------ Excecução iniciada em: 2021-03-11 14:49:33.813749
+
+------ Excecução iniciada em: 2021-03-11 14:49:41.733767
+
+------ Excecução iniciada em: 2021-03-11 14:49:50.466099
+
+------ Excecução iniciada em: 2021-03-11 14:52:56.272116
+
+------ Excecução iniciada em: 2021-03-11 14:53:19.220385
+
+------ Excecução iniciada em: 2021-03-11 14:53:28.575090
+
+------ Excecução iniciada em: 2021-03-11 14:53:35.703371
+
+------ Excecução iniciada em: 2021-03-11 14:53:43.145488
+
+------ Excecução iniciada em: 2021-03-11 14:53:50.779598
+
+------ Excecução iniciada em: 2021-03-11 14:53:57.979690
+
+------ Excecução iniciada em: 2021-03-11 14:54:05.810072
+
+------ Excecução iniciada em: 2021-03-11 14:54:13.530064
+
+------ Excecução iniciada em: 2021-03-11 15:07:33.886764
+
+------ Excecução iniciada em: 2021-03-11 15:08:21.713780
+
+------ Excecução iniciada em: 2021-03-11 15:10:05.604456
+
+------ Excecução iniciada em: 2021-03-11 15:10:55.325069
+
+------ Excecução iniciada em: 2021-03-11 15:12:58.546028
+
+------ Excecução iniciada em: 2021-03-11 15:15:11.658318
+
+------ Excecução iniciada em: 2021-03-11 15:15:51.386437
+
+------ Excecução iniciada em: 2021-03-11 15:16:58.180852
+
+------ Excecução iniciada em: 2021-03-11 15:29:00.503432
+
+------ Excecução iniciada em: 2021-03-11 15:29:25.981846
+
+------ Excecução iniciada em: 2021-03-11 15:29:33.761275
+
+------ Excecução iniciada em: 2021-03-11 15:29:45.227343
+
+------ Excecução iniciada em: 2021-03-11 15:29:53.319232
+
+------ Excecução iniciada em: 2021-03-11 15:30:00.333184
+
+------ Excecução iniciada em: 2021-03-11 15:30:07.519002
+
+------ Excecução iniciada em: 2021-03-11 15:30:14.814170
+
+------ Excecução iniciada em: 2021-03-11 15:30:26.186509
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 17:37:25.001393
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-12 17:37:25.407511
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 17:37:47.387056
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-12 17:37:47.699483
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 17:38:02.961497
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-12 17:38:03.258289
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 17:38:20.582335
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-12 17:38:20.879141
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-12 17:53:46.304357
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 17:54:19.858954
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 17:54:51.720102
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 17:55:26.979067
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 17:55:26.979067
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 17:56:28.447783
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 17:57:01.646477
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 17:57:38.819629
+
+------ Excecução Total encerrada em: 2021-03-12 17:58:16.743229
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:07:10.728723
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:08:36.507290
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:11:49.188901
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:15:51.244923
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:17:31.369134
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:20:36.647863
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:21:40.776071
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-12 18:21:41.117844
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:22:44.717056
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-12 18:22:45.045105
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:23:01.148285
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-12 18:23:01.460695
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-12 18:23:17.551295
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-12 18:23:17.801245
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-12 18:27:23.227724
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 18:27:56.684999
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 18:28:22.516722
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 18:28:58.344352
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 18:28:58.344352
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 18:29:59.388585
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 18:30:21.310505
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 18:30:57.484106
+
+------ Excecução Total encerrada em: 2021-03-12 18:31:23.591401
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-12 18:32:53.774455
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 18:33:28.602603
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 18:33:47.573260
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 18:34:23.017380
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 18:34:23.017380
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 18:35:24.244499
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 18:35:42.070023
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 18:36:18.225167
+
+------ Excecução Total encerrada em: 2021-03-12 18:36:46.134737
+
+------ Excecução iniciada em: 2021-03-12 19:14:02.560810
+
+------ Excecução iniciada em: 2021-03-12 19:14:49.696435
+
+------ Excecução iniciada em: 2021-03-12 19:15:15.235174
+
+------ Excecução iniciada em: 2021-03-12 19:18:00.824528
+
+------ Excecução iniciada em: 2021-03-12 19:18:43.997419
+
+------ Excecução iniciada em: 2021-03-12 19:19:18.417912
+
+------ Excecução iniciada em: 2021-03-12 19:19:42.306603
+
+------ Excecução iniciada em: 2021-03-12 19:23:40.540571
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 19:24:37.197117
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 19:24:37.198113
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 19:25:33.963091
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 19:25:33.963091
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 19:25:41.227003
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 19:25:41.227003
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 19:25:49.678140
+
+------ Excecução Total encerrada em: 2021-03-12 19:27:39.297385
+
+------ Excecução iniciada em: 2021-03-12 19:30:53.268915
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 19:31:00.066241
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 19:31:00.066241
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 19:31:06.449658
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 19:31:06.449658
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 19:31:13.898105
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 19:31:13.898105
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 19:31:21.978675
+
+------ Excecução Total encerrada em: 2021-03-12 19:32:32.994090
+
+------ Excecução iniciada em: 2021-03-12 19:35:16.745511
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 19:36:13.522844
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 19:36:13.522844
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 19:37:10.500728
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 19:37:10.500728
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 19:37:17.624050
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 19:37:17.624050
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 19:37:25.544059
+
+------ Excecução Total encerrada em: 2021-03-12 19:38:43.914968
+
+------ Excecução iniciada em: 2021-03-12 19:41:37.182204
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 19:42:55.476254
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 19:42:55.476254
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 19:43:02.177785
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 19:43:02.177785
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 19:43:09.472943
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 19:43:09.472943
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 19:43:17.814730
+
+------ Excecução Total encerrada em: 2021-03-12 19:44:36.640676
+
+------ Excecução iniciada em: 2021-03-12 19:46:11.073999
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 19:47:28.808371
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 19:47:28.808371
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 19:47:35.181870
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 19:47:35.181870
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 19:47:41.899038
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 19:47:41.899038
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 19:47:49.350408
+
+------ Excecução Total encerrada em: 2021-03-12 19:49:13.932312
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-12 19:50:36.900390
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 19:51:11.064209
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 19:51:16.825114
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 19:51:51.729189
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 19:51:51.729189
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 19:52:32.056481
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 19:52:52.891072
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 19:53:29.748426
+
+------ Excecução Total encerrada em: 2021-03-12 19:53:39.843459
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-12 19:54:09.605661
+
+------ Excecução P20 Infestado encerrada em: 2021-03-12 19:54:44.278858
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-12 19:54:47.920595
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-12 19:55:23.141298
+
+------ Excecução P21 Infestado iniciada em: 2021-03-12 19:55:23.141298
+
+------ Excecução P21 Infestado encerrada em: 2021-03-12 19:56:02.756146
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-12 19:56:21.424831
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-12 19:56:58.468113
+
+------ Excecução Total encerrada em: 2021-03-12 19:58:20.794660
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:15:14.023767
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:15:14.213235
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:15:59.963845
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:16:00.387912
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:17:02.021357
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:17:02.370653
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:20:49.276198
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:20:49.651110
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:21:05.046492
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:21:05.374577
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:21:20.659884
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:21:21.034834
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:21:49.936383
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:21:50.274477
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:22:04.469983
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:22:04.829273
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:22:21.286640
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:22:21.677174
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:22:37.054937
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:22:37.447766
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:22:51.667614
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:22:52.058178
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 20:23:05.918555
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 20:23:06.273605
+
+------ Excecução iniciada em: 2021-03-12 21:06:29.259461
+
+------ Excecução iniciada em: 2021-03-12 21:07:14.996707
+
+------ Excecução iniciada em: 2021-03-12 21:09:36.356302
+
+------ Excecução iniciada em: 2021-03-12 21:14:36.641092
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:18:49.414130
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:18:49.789044
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:19:05.355288
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:19:05.714580
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:19:26.372280
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:19:26.762782
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:20:39.623804
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:20:39.998715
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:20:55.426062
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:20:55.800971
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:21:10.702125
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:21:11.061416
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:21:25.140718
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:21:25.477929
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:21:38.234034
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:21:38.562082
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:21:52.664622
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:21:53.008291
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 21:22:05.730505
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-12 21:22:06.071558
+
+------ Excecução iniciada em: 2021-03-12 21:35:44.476829
+
+------ Excecução iniciada em: 2021-03-12 21:37:01.152975
+
+------ Excecução iniciada em: 2021-03-12 21:38:31.854187
+
+------ Excecução iniciada em: 2021-03-12 21:40:27.478747
+
+------ Excecução iniciada em: 2021-03-12 21:44:52.809780
+
+------ Excecução iniciada em: 2021-03-12 21:45:01.986134
+
+------ Excecução iniciada em: 2021-03-12 21:48:41.978439
+
+------ Excecução iniciada em: 2021-03-12 21:49:34.286310
+
+------ Excecução iniciada em: 2021-03-12 21:51:50.488480
+
+------ Excecução iniciada em: 2021-03-12 21:52:58.595055
+
+------ Excecução iniciada em: 2021-03-12 22:05:29.791913
+
+------ Excecução iniciada em: 2021-03-12 22:06:19.436713
+
+------ Excecução iniciada em: 2021-03-12 22:06:53.863382
+
+------ Excecução iniciada em: 2021-03-12 22:07:56.938310
+
+------ Excecução iniciada em: 2021-03-12 22:10:13.709378
+
+------ Excecução iniciada em: 2021-03-12 22:10:35.559921
+
+------ Excecução iniciada em: 2021-03-12 22:11:29.072727
+
+------ Excecução iniciada em: 2021-03-12 22:14:24.076356
+
+------ Excecução iniciada em: 2021-03-12 22:15:42.437512
+
+------Instantanea Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 22:39:30.892798
+
+------Instantanea Cristina Excecução Total encerrada em: 2021-03-12 22:48:16.834114
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 23:32:51.172058
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-12 23:36:58.479989
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 23:44:55.756819
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-12 23:48:56.025730
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-12 23:56:41.033530
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-13 00:01:43.674906
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-13 00:09:54.397752
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-13 00:13:19.874305
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-13 00:18:28.597277
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-13 00:19:54.185983
+
+------ Excecução iniciada em: 2021-03-13 00:30:12.353957
+
+------ Excecução iniciada em: 2021-03-13 00:30:21.583950
+
+------ Excecução iniciada em: 2021-03-13 00:30:45.655501
+
+------ Excecução iniciada em: 2021-03-13 00:32:11.580148
+
+------ Excecução iniciada em: 2021-03-13 00:32:51.653503
+
+------ Excecução iniciada em: 2021-03-13 00:35:06.381251
+
+------ Excecução iniciada em: 2021-03-13 00:37:28.287210
+
+------ Excecução iniciada em: 2021-03-13 00:38:36.699950
+
+------ Excecução iniciada em: 2021-03-13 00:39:27.288273
+
+------ Excecução iniciada em: 2021-03-13 00:40:42.171667
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-13 00:59:29.563413
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-13 01:05:26.932386
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-13 01:19:01.685145
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-13 01:24:58.772914
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-13 01:35:38.067681
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-13 01:40:13.129510
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-13 01:44:30.104999
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-13 01:49:15.053515
+
+------ Excecução iniciada em: 2021-03-13 01:59:27.440779
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 01:59:33.064458
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 01:59:33.064458
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 01:59:40.187779
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 01:59:40.187779
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 01:59:47.686013
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 01:59:47.701636
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 01:59:55.980973
+
+------ Excecução Total encerrada em: 2021-03-13 01:59:59.417626
+
+------ Excecução iniciada em: 2021-03-13 02:02:14.152538
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:02:19.541862
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:02:19.557484
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:02:26.040332
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:02:26.040332
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:02:33.866615
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:02:33.866615
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:02:41.786624
+
+------ Excecução Total encerrada em: 2021-03-13 02:02:45.598228
+
+------ Excecução iniciada em: 2021-03-13 02:03:50.052699
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:03:55.660755
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:03:55.660755
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:04:02.643485
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:04:02.643485
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:04:09.673094
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:04:09.673094
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:04:17.577472
+
+------ Excecução Total encerrada em: 2021-03-13 02:04:20.857947
+
+------ Excecução iniciada em: 2021-03-13 02:09:09.994218
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:09:15.696001
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:09:15.696001
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:09:22.022641
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:09:22.022641
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:09:28.583590
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:09:28.583590
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:09:36.300523
+
+------ Excecução Total encerrada em: 2021-03-13 02:09:39.705972
+
+------ Excecução iniciada em: 2021-03-13 02:16:24.362807
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:16:30.705065
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:16:30.705065
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:16:37.828387
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:16:37.828387
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:16:44.779876
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:16:44.779876
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:16:52.762371
+
+------ Excecução Total encerrada em: 2021-03-13 02:16:56.261547
+
+------ Excecução iniciada em: 2021-03-13 02:20:22.276012
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:20:28.337087
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:20:28.337087
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:20:34.851179
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:20:34.851179
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:20:41.755805
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:20:41.755805
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:20:49.082200
+
+------ Excecução Total encerrada em: 2021-03-13 02:20:52.550135
+
+------ Excecução iniciada em: 2021-03-13 02:22:59.614194
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:23:05.487803
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:23:05.487803
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:23:11.908167
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:23:11.908167
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:23:18.672202
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:23:18.672202
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:23:26.139190
+
+------ Excecução Total encerrada em: 2021-03-13 02:23:29.685233
+
+------ Excecução iniciada em: 2021-03-13 02:31:15.842779
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:32:12.751292
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:32:12.751292
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:33:09.316063
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:33:09.316063
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:33:16.939267
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:33:16.939267
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:33:24.921766
+
+------ Excecução Total encerrada em: 2021-03-13 02:33:27.952298
+
+------ Excecução iniciada em: 2021-03-13 02:34:53.463972
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:35:00.024929
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:35:00.024929
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:35:06.663998
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:35:06.663998
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:35:13.771697
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:35:13.771697
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:35:21.863536
+
+------ Excecução Total encerrada em: 2021-03-13 02:35:25.144014
+
+------ Excecução iniciada em: 2021-03-13 02:36:36.221620
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:36:42.376423
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:36:42.376423
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:36:48.937379
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:36:48.937379
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:36:56.544962
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:36:56.544962
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:37:04.246276
+
+------ Excecução Total encerrada em: 2021-03-13 02:37:07.276808
+
+------ Excecução iniciada em: 2021-03-13 02:41:16.563304
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:42:14.049767
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:42:14.049767
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:43:10.661437
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:43:10.661437
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:43:17.362984
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:43:17.362984
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:43:25.470451
+
+------ Excecução Total encerrada em: 2021-03-13 02:43:28.829044
+
+------ Excecução iniciada em: 2021-03-13 02:48:36.180556
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:49:52.271984
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:49:52.271984
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:49:58.957910
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:49:58.957910
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:50:06.299930
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:50:06.299930
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:50:15.047870
+
+------ Excecução Total encerrada em: 2021-03-13 02:50:18.531425
+
+------ Excecução iniciada em: 2021-03-13 02:52:51.840210
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 02:54:10.024926
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 02:54:10.024926
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 02:54:16.445289
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 02:54:16.445289
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 02:54:23.943531
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 02:54:23.943531
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 02:54:31.894776
+
+------ Excecução Total encerrada em: 2021-03-13 02:54:35.190876
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-13 03:03:29.164756
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 03:04:03.906578
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 03:04:04.468946
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 03:04:39.429463
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 03:04:39.429463
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 03:05:15.795905
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 03:05:16.483263
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 03:05:52.302928
+
+------ Excecução Total encerrada em: 2021-03-13 03:05:53.427664
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-13 03:07:58.148935
+
+------ Excecução P20 Infestado encerrada em: 2021-03-13 03:08:35.265185
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-13 03:08:36.155602
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-13 03:09:12.865709
+
+------ Excecução P21 Infestado iniciada em: 2021-03-13 03:09:12.865709
+
+------ Excecução P21 Infestado encerrada em: 2021-03-13 03:09:49.966347
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-13 03:09:50.513102
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-13 03:10:26.692074
+
+------ Excecução Total encerrada em: 2021-03-13 03:10:27.957403
+
+------Instantanea Cristina ModeloAjustado Excecução iniciada em: 2021-03-13 03:26:23.029072
+
+------Instantanea Cristina Excecução Total encerrada em: 2021-03-13 03:32:04.948559
+
+------Instantanea Cristina ModeloAjustado Excecução iniciada em: 2021-03-13 03:35:15.361280
+
+------Instantanea Cristina Excecução Total encerrada em: 2021-03-13 03:40:55.656188
+
+------ Excecução iniciada em: 2021-03-15 17:08:05.224502
+
+------ Excecução iniciada em: 2021-03-15 17:10:32.223115
+
+------ Excecução iniciada em: 2021-03-15 17:13:18.176237
+
+------ Excecução P20 Infestado encerrada em: 2021-03-15 17:13:24.446694
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-15 17:13:24.446694
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-15 17:15:48.155498
+
+------ Excecução P21 Infestado iniciada em: 2021-03-15 17:15:48.155498
+
+------ Excecução P21 Infestado encerrada em: 2021-03-15 17:15:55.320792
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-15 17:15:55.320792
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-15 17:16:03.398305
+
+------ Excecução Total encerrada em: 2021-03-15 17:16:06.428842
+
+------ Excecução iniciada em: 2021-03-15 17:18:45.470066
+
+------ Excecução P20 Infestado encerrada em: 2021-03-15 17:18:51.220654
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-15 17:18:51.220654
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-15 17:21:17.307945
+
+------ Excecução P21 Infestado iniciada em: 2021-03-15 17:21:17.308943
+
+------ Excecução P21 Infestado encerrada em: 2021-03-15 17:21:24.509104
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-15 17:21:24.509104
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-15 17:21:32.618414
+
+------ Excecução Total encerrada em: 2021-03-15 17:21:36.521727
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 17:27:02.757341
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-15 17:28:25.117376
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 17:32:05.798681
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-15 17:33:29.616465
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 17:51:31.672851
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-15 17:52:53.080273
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-15 18:04:00.206142
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-15 18:04:00.643539
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-15 18:04:22.171932
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-15 18:04:22.515603
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-15 18:05:13.102646
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-15 18:05:13.508799
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-15 18:05:29.551040
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-15 18:05:29.848807
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-15 18:05:45.608362
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-15 18:05:45.855334
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-15 18:08:34.113519
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-15 18:08:34.394702
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-15 18:08:57.016101
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-15 18:08:57.328539
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-15 18:09:13.687490
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-15 18:09:14.008255
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-15 18:09:33.409742
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-15 18:09:33.722170
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:13:42.959582
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-15 18:13:43.334525
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:14:27.741435
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-15 18:14:28.078820
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:14:41.050348
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-15 18:14:41.409641
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:14:56.699458
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-15 18:14:57.031018
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:15:12.376681
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-15 18:15:12.751593
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:15:27.017859
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-15 18:15:27.408423
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:15:39.591431
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-15 18:15:39.982386
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:15:54.718489
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-15 18:15:55.067906
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:16:09.446215
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-15 18:16:09.812983
+
+------ Excecução iniciada em: 2021-03-15 18:39:21.541733
+
+------ Excecução iniciada em: 2021-03-15 18:43:13.978909
+
+------ Excecução P20 Infestado encerrada em: 2021-03-15 18:46:46.926139
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-15 18:46:46.926139
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-15 18:46:53.221532
+
+------ Excecução P21 Infestado iniciada em: 2021-03-15 18:46:53.221532
+
+------ Excecução P21 Infestado encerrada em: 2021-03-15 18:47:00.969707
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-15 18:47:00.969707
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-15 18:47:08.405458
+
+------ Excecução Total encerrada em: 2021-03-15 18:47:12.420136
+
+------ Excecução iniciada em: 2021-03-15 18:48:42.928125
+
+------ Excecução P20 Infestado encerrada em: 2021-03-15 18:48:49.192273
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-15 18:48:49.192273
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-15 18:48:55.409560
+
+------ Excecução P21 Infestado iniciada em: 2021-03-15 18:48:55.409560
+
+------ Excecução P21 Infestado encerrada em: 2021-03-15 18:49:02.157971
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-15 18:49:02.157971
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-15 18:49:09.796824
+
+------ Excecução Total encerrada em: 2021-03-15 18:49:12.967926
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 18:56:09.545479
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-15 18:57:31.416793
+
+------ Excecução iniciada em: 2021-03-15 19:25:03.782636
+
+------ Excecução P20 Infestado encerrada em: 2021-03-15 19:25:09.609389
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-15 19:25:09.625011
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-15 19:25:15.811054
+
+------ Excecução P21 Infestado iniciada em: 2021-03-15 19:25:15.811054
+
+------ Excecução P21 Infestado encerrada em: 2021-03-15 19:25:23.559230
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-15 19:25:23.559230
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-15 19:25:31.432376
+
+------ Excecução Total encerrada em: 2021-03-15 19:25:34.712855
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 19:29:11.490667
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-15 19:30:36.374570
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-15 19:40:55.305745
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-15 19:42:20.395085
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-17 03:57:39.657747
+
+------ Excecução P20 Infestado encerrada em: 2021-03-17 03:58:23.586183
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-17 03:58:27.061749
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-17 03:59:04.112391
+
+------ Excecução P21 Infestado iniciada em: 2021-03-17 03:59:04.113389
+
+------ Excecução P21 Infestado encerrada em: 2021-03-17 03:59:44.192214
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-17 03:59:45.453919
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-17 04:00:23.691662
+
+------ Excecução Total encerrada em: 2021-03-17 04:00:25.182994
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-17 04:27:34.603453
+
+------ Excecução P20 Infestado encerrada em: 2021-03-17 04:28:09.575595
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-17 04:28:10.350555
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-17 04:28:46.369768
+
+------ Excecução P21 Infestado iniciada em: 2021-03-17 04:28:46.369768
+
+------ Excecução P21 Infestado encerrada em: 2021-03-17 04:29:24.203904
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-17 04:29:24.798331
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-17 04:30:02.578050
+
+------ Excecução Total encerrada em: 2021-03-17 04:30:04.185750
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-17 04:31:46.324726
+
+------ Excecução P20 Infestado encerrada em: 2021-03-17 04:32:22.265419
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-17 04:32:22.927681
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-17 04:32:59.308221
+
+------ Excecução P21 Infestado iniciada em: 2021-03-17 04:32:59.308221
+
+------ Excecução P21 Infestado encerrada em: 2021-03-17 04:33:37.067713
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-17 04:33:37.604282
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-17 04:34:15.437693
+
+------ Excecução Total encerrada em: 2021-03-17 04:34:16.713281
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:27:37.508319
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:27:37.836365
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:30:05.525726
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:30:05.697563
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:31:27.182093
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:31:27.471280
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:32:34.875288
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:32:35.062714
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:34:03.692835
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:34:03.973988
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:34:33.166153
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:34:33.328129
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:35:05.370643
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:35:05.636237
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:35:39.441473
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:35:39.613310
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:37:26.971974
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:37:27.238263
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:38:04.255121
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:38:04.411303
+
+------ Excecução iniciada em: 2021-03-17 23:43:45.755241
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-17 23:44:31.679048
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-17 23:44:31.853610
+
+------ Excecução iniciada em: 2021-03-17 23:45:11.693459
+
+------ Excecução iniciada em: 2021-03-17 23:45:56.597994
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:50:14.710034
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:50:15.038049
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:51:13.758647
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:51:14.071073
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:52:34.159624
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:52:34.460173
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:52:51.386590
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:52:51.656868
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:53:18.087794
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:53:18.357234
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:53:33.088685
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:53:33.340707
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:53:48.839277
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:53:49.104839
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:54:02.291817
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:54:02.604243
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:54:15.975280
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:54:16.328667
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:54:45.361416
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:54:45.736327
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:57:32.321392
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:57:32.540076
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:58:12.867774
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:58:13.023986
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:58:34.806553
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:58:34.962768
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:58:48.060620
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:58:48.264385
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:59:05.958717
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:59:06.157484
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:59:20.104560
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:59:20.330698
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-17 23:59:42.420170
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-17 23:59:42.592005
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:00:07.462392
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:00:07.634236
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:00:33.119390
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:00:33.291224
+
+------ Excecução iniciada em: 2021-03-18 00:08:58.419048
+
+------ Excecução iniciada em: 2021-03-18 00:10:18.178876
+
+------ Excecução iniciada em: 2021-03-18 00:11:00.491789
+
+------ Excecução iniciada em: 2021-03-18 00:11:54.133231
+
+------ Excecução iniciada em: 2021-03-18 00:14:08.916013
+
+------ Excecução iniciada em: 2021-03-18 00:14:33.806120
+
+------ Excecução iniciada em: 2021-03-18 00:15:02.384056
+
+------ Excecução iniciada em: 2021-03-18 00:16:03.977223
+
+------ Excecução iniciada em: 2021-03-18 00:17:24.916064
+
+------ Excecução iniciada em: 2021-03-18 00:22:28.698659
+
+------ Excecução iniciada em: 2021-03-18 00:22:43.441999
+
+------ Excecução iniciada em: 2021-03-18 00:26:42.041214
+
+------ Excecução iniciada em: 2021-03-18 00:28:53.920935
+
+------ Excecução iniciada em: 2021-03-18 00:30:52.677306
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-18 00:33:03.241441
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-18 00:33:03.585142
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-18 00:33:33.955536
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-18 00:33:34.286650
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-18 00:33:47.833710
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-18 00:33:48.130513
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-18 00:34:03.382134
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-18 00:34:03.632073
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-18 00:36:38.323724
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-18 00:36:38.573665
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:38:05.992176
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:38:06.351466
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:38:41.589064
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:38:41.964007
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:38:55.791507
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:38:56.197697
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:39:09.649603
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:39:09.995677
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:39:25.948657
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:39:26.370431
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:39:41.832883
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:39:42.145306
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:39:57.358057
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:39:57.717347
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:40:10.120719
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:40:10.433145
+
+------Consolida dados Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 00:40:24.600299
+
+------Consolida dados Cristina ModeloAjustado Excecução encerrada em: 2021-03-18 00:40:24.959587
+
+------Instantanea Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 01:04:48.746040
+
+------Instantanea Cristina Excecução Total encerrada em: 2021-03-18 01:10:21.120722
+
+------Instantanea ModeloOriginal_Variaveis Excecução iniciada em: 2021-03-18 01:14:08.311304
+
+------ Excecução P20 Infestado encerrada em: 2021-03-18 01:14:42.756300
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-18 01:14:43.349915
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-18 01:15:18.076090
+
+------ Excecução P21 Infestado iniciada em: 2021-03-18 01:15:18.076090
+
+------ Excecução P21 Infestado encerrada em: 2021-03-18 01:15:53.973868
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-18 01:15:54.551856
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-18 01:16:29.137485
+
+------ Excecução Total encerrada em: 2021-03-18 01:16:30.590229
+
+------ Excecução iniciada em: 2021-03-18 01:25:11.699844
+
+------ Excecução P20 Infestado encerrada em: 2021-03-18 01:25:45.910512
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-18 01:25:45.910512
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-18 01:26:21.183438
+
+------ Excecução P21 Infestado iniciada em: 2021-03-18 01:26:21.183438
+
+------ Excecução P21 Infestado encerrada em: 2021-03-18 01:26:28.213029
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-18 01:26:28.213029
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-18 01:26:36.226763
+
+------ Excecução Total encerrada em: 2021-03-18 01:26:39.257299
+
+------ Excecução iniciada em: 2021-03-18 01:32:00.761190
+
+------ Excecução P20 Infestado encerrada em: 2021-03-18 01:32:56.357514
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-18 01:32:56.357514
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-18 01:33:03.137155
+
+------ Excecução P21 Infestado iniciada em: 2021-03-18 01:33:03.137155
+
+------ Excecução P21 Infestado encerrada em: 2021-03-18 01:33:09.979290
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-18 01:33:09.979290
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-18 01:33:17.008882
+
+------ Excecução Total encerrada em: 2021-03-18 01:33:19.976982
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 01:43:33.779624
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 01:48:22.465354
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-18 01:49:40.931208
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 01:55:00.988291
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-18 01:58:11.818253
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 02:16:23.011029
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-18 02:21:14.770295
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 02:33:53.525635
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-18 02:35:14.147205
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 02:44:35.634188
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 02:45:17.749940
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-18 02:48:27.807319
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 02:55:50.453517
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-18 02:59:48.225526
+
+------ Excecução iniciada em: 2021-03-18 03:01:48.798323
+
+------ Excecução P20 Infestado encerrada em: 2021-03-18 03:01:54.437617
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-18 03:01:54.437617
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-18 03:02:00.764249
+
+------ Excecução P21 Infestado iniciada em: 2021-03-18 03:02:00.764249
+
+------ Excecução P21 Infestado encerrada em: 2021-03-18 03:02:07.731356
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-18 03:02:07.731356
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-18 03:02:15.073373
+
+------ Excecução Total encerrada em: 2021-03-18 03:02:18.228877
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-03-18 03:04:10.063238
+
+------Uniao Cristina Excecução Total encerrada em: 2021-03-18 03:05:29.685071
+
+------ Excecução iniciada em: 2021-03-18 03:05:46.337732
+
+------ Excecução P20 Infestado encerrada em: 2021-03-18 03:05:51.836423
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-18 03:05:51.836423
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-18 03:05:58.350512
+
+------ Excecução P21 Infestado iniciada em: 2021-03-18 03:05:58.350512
+
+------ Excecução P21 Infestado encerrada em: 2021-03-18 03:06:05.551936
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-18 03:06:05.551936
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-18 03:06:13.440700
+
+------ Excecução Total encerrada em: 2021-03-18 03:06:16.986776
+
+------ Excecução iniciada em: 2021-03-18 03:13:20.669636
+
+------ Excecução P20 Infestado encerrada em: 2021-03-18 03:13:26.746313
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-18 03:13:26.746313
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-18 03:13:33.276022
+
+------ Excecução P21 Infestado iniciada em: 2021-03-18 03:13:33.276022
+
+------ Excecução P21 Infestado encerrada em: 2021-03-18 03:13:40.461828
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-18 03:13:40.461828
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-18 03:13:48.085029
+
+------ Excecução Total encerrada em: 2021-03-18 03:13:51.224911
+
+------ Excecução iniciada em: 2021-03-18 03:17:00.590545
+
+------ Excecução P20 Infestado encerrada em: 2021-03-18 03:17:06.370431
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-18 03:17:06.370431
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-18 03:17:13.415644
+
+------ Excecução P21 Infestado iniciada em: 2021-03-18 03:17:13.415644
+
+------ Excecução P21 Infestado encerrada em: 2021-03-18 03:17:20.429611
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-18 03:17:20.429611
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-18 03:17:28.287133
+
+------ Excecução Total encerrada em: 2021-03-18 03:17:31.770684
+
+------ Excecução iniciada em: 2021-03-18 03:21:49.888425
+
+------ Excecução P20 Infestado encerrada em: 2021-03-18 03:21:56.183813
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-18 03:21:56.183813
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-18 03:22:02.385474
+
+------ Excecução P21 Infestado iniciada em: 2021-03-18 03:22:02.385474
+
+------ Excecução P21 Infestado encerrada em: 2021-03-18 03:22:09.461943
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-18 03:22:09.477554
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-18 03:22:17.335073
+
+------ Excecução Total encerrada em: 2021-03-18 03:22:20.615547
+
+------Consolida dados ModeloAjustado Excecução iniciada em: 2021-03-18 23:32:36.567659
+
+------Consolida dados ModeloAjustado Excecução encerrada em: 2021-03-18 23:32:37.130025
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 13:12:42.172717
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 13:13:15.737199
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 13:13:15.768409
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 13:13:22.271625
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 13:13:22.271625
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 13:13:29.019228
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 13:13:29.019228
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 13:13:29.019228
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 13:14:27.684398
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 13:15:01.207753
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 13:15:01.207753
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 13:15:07.409403
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 13:15:07.409403
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 13:15:14.189054
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 13:15:14.189054
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 13:15:14.189054
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 13:16:30.061875
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 13:17:04.647435
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 13:17:04.647435
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 13:17:10.989689
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 13:17:11.005310
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 13:17:17.925554
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 13:17:17.925554
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 13:17:17.925554
+
+------ Excecução Total encerrada em: 2021-03-29 13:17:20.018808
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 13:20:26.412666
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 13:20:59.592338
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 13:20:59.592338
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 13:21:05.981457
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 13:21:05.981457
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 13:21:13.136023
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 13:21:13.136023
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 13:21:13.136023
+
+------ Excecução Total encerrada em: 2021-03-29 13:21:15.213653
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 13:24:52.436509
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 13:25:26.490959
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 13:25:26.490959
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 13:25:32.848866
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 13:25:32.864456
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 13:25:39.940914
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 13:25:39.940914
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 13:25:39.940914
+
+------ Excecução Total encerrada em: 2021-03-29 13:25:42.127897
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 13:28:15.248070
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 13:28:49.208821
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 13:28:49.208821
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 13:28:55.347970
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 13:28:55.347970
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 13:29:02.596258
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 13:29:02.596258
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 13:29:02.596258
+
+------ Excecução Total encerrada em: 2021-03-29 13:29:04.658272
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 13:35:59.732303
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 13:36:33.958624
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 13:36:33.958624
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 13:36:40.207121
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 13:36:40.207121
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 13:36:46.893043
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 13:36:46.893043
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 13:36:46.893043
+
+------ Excecução Total encerrada em: 2021-03-29 13:36:48.908194
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 14:06:28.573853
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 14:07:02.003475
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 14:07:02.003475
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 14:07:08.267613
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 14:07:08.267613
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 14:07:14.812946
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 14:07:14.812946
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 14:07:14.812946
+
+------ Excecução Total encerrada em: 2021-03-29 14:07:16.874958
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 14:10:12.388880
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 14:10:46.302723
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 14:10:46.302723
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 14:10:52.832435
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 14:10:52.832435
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 14:10:59.533978
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 14:10:59.533978
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 14:10:59.533978
+
+------ Excecução Total encerrada em: 2021-03-29 14:11:01.627232
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 14:56:05.131073
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 14:56:39.138677
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 14:56:39.138677
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 14:56:45.574658
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 14:56:45.590278
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 14:56:52.416793
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 14:56:52.416793
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 14:56:52.416793
+
+------ Excecução Total encerrada em: 2021-03-29 14:56:54.822475
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 14:59:31.894793
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 15:00:05.605591
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 15:00:05.605591
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 15:00:12.072817
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 15:00:12.072817
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 15:00:19.227380
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 15:00:19.227380
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 15:00:19.227380
+
+------ Excecução Total encerrada em: 2021-03-29 15:00:21.258149
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 15:02:02.906057
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 15:02:37.257317
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 15:02:37.257317
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 15:02:43.646435
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 15:02:43.646435
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 15:02:50.426085
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 15:02:50.426085
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 15:02:50.426085
+
+------ Excecução Total encerrada em: 2021-03-29 15:02:52.550584
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 15:06:11.753603
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 15:06:45.386282
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 15:06:45.386282
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 15:06:52.072204
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 15:06:52.072204
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 15:06:58.945582
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 15:06:58.945582
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 15:06:58.945582
+
+------ Excecução Total encerrada em: 2021-03-29 15:07:01.116943
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 15:09:57.653419
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 15:10:31.692291
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 15:10:31.692291
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 15:10:37.831445
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 15:10:37.831445
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 15:10:44.751691
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 15:10:44.751691
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 15:10:44.751691
+
+------ Excecução Total encerrada em: 2021-03-29 15:10:46.876183
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-03-29 15:12:44.723382
+
+------ Excecução P20 Infestado encerrada em: 2021-03-29 15:13:18.621637
+
+------ Excecução P20 Mirapasto iniciada em: 2021-03-29 15:13:18.621637
+
+------ Excecução P20 Mirapasto encerrada em: 2021-03-29 15:13:25.323210
+
+------ Excecução P21 Infestado iniciada em: 2021-03-29 15:13:25.323210
+
+------ Excecução P21 Infestado encerrada em: 2021-03-29 15:13:31.993518
+
+------ Excecução P21 Mirapasto iniciada em: 2021-03-29 15:13:31.993518
+
+------ Excecução P21 Mirapasto encerrada em: 2021-03-29 15:13:31.993518
+
+------ Excecução Total encerrada em: 2021-03-29 15:13:34.117980
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:00:07.882406
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:00:41.999370
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:00:42.030578
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:01:16.413072
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:01:16.413072
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:02:11.696867
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:02:11.696867
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:02:11.696867
+
+------ Excecução Total encerrada em: 2021-04-25 16:02:13.540184
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:04:06.499472
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:04:39.366700
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:04:39.366700
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:05:13.796056
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:05:13.796056
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:06:10.376455
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:06:10.376455
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:06:10.376455
+
+------ Excecução Total encerrada em: 2021-04-25 16:06:12.547782
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:07:13.472663
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:07:46.386753
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:07:46.402378
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:08:21.066050
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:08:21.066050
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:09:16.209255
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:09:16.209255
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:09:16.209255
+
+------ Excecução Total encerrada em: 2021-04-25 16:09:18.177540
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:09:49.814435
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:10:22.572280
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:10:22.572280
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:10:57.329681
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:10:57.329681
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:11:52.301053
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:11:52.301053
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:11:52.301053
+
+------ Excecução Total encerrada em: 2021-04-25 16:11:54.160007
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:12:22.233723
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:12:55.397725
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:12:55.397725
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:13:30.576898
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:13:30.592552
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:14:25.688862
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:14:25.688862
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:14:25.688862
+
+------ Excecução Total encerrada em: 2021-04-25 16:14:27.672768
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:15:31.934815
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:16:05.364378
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:16:05.364378
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:16:40.043705
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:16:40.043705
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:17:35.077561
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:17:35.077561
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:17:35.077561
+
+------ Excecução Total encerrada em: 2021-04-25 16:17:37.248891
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:21:01.947794
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:21:35.111825
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:21:35.111825
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:22:09.853606
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:22:09.853606
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:23:05.402967
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:23:05.402967
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:23:05.402967
+
+------ Excecução Total encerrada em: 2021-04-25 16:23:07.340010
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:23:42.333285
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:24:15.434833
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:24:15.434833
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:24:50.129748
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:24:50.129748
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:25:46.194610
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:25:46.194610
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:25:46.194610
+
+------ Excecução Total encerrada em: 2021-04-25 16:25:48.194138
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:26:16.622138
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:26:49.458124
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:26:49.458124
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:27:23.918722
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:27:23.918722
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:28:20.608435
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:28:20.608435
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:28:20.608435
+
+------ Excecução Total encerrada em: 2021-04-25 16:28:22.717321
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:28:47.217025
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:29:20.552890
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:29:20.552890
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:29:55.294672
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:29:55.294672
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:30:49.516252
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:30:49.516252
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:30:49.516252
+
+------ Excecução Total encerrada em: 2021-04-25 16:30:51.562611
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:31:48.102457
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:32:21.141513
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:32:21.141513
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:32:55.711461
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:32:55.727116
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:33:52.073148
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:33:52.073148
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:33:52.073148
+
+------ Excecução Total encerrada em: 2021-04-25 16:33:53.963312
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:37:21.506349
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:37:54.779727
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:37:54.779727
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:38:29.599615
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:38:29.599615
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:39:25.164599
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:39:25.164599
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:39:25.164599
+
+------ Excecução Total encerrada em: 2021-04-25 16:39:27.273476
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:40:40.174657
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:41:14.197861
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:41:14.197861
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:41:48.767807
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:41:48.767807
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:42:45.301311
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:42:45.301311
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:42:45.301311
+
+------ Excecução Total encerrada em: 2021-04-25 16:42:47.300837
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:43:22.192676
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:43:55.059890
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:43:55.059890
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:44:29.786050
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:44:29.786050
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:45:25.444790
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:45:25.444790
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:45:25.444790
+
+------ Excecução Total encerrada em: 2021-04-25 16:45:27.319317
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:45:53.566558
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:46:26.511890
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:46:26.511890
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:47:01.550476
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:47:01.550476
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:47:56.225042
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:47:56.225042
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:47:56.225042
+
+------ Excecução Total encerrada em: 2021-04-25 16:47:57.990258
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:48:31.938649
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:49:04.759006
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:49:04.759006
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:49:39.703838
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:49:39.703838
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:50:35.799943
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:50:35.799943
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:50:35.799943
+
+------ Excecução Total encerrada em: 2021-04-25 16:50:37.705743
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:51:24.787459
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:51:57.279773
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:51:57.279773
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:52:30.724986
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:52:30.724986
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:53:26.430560
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:53:26.430560
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:53:26.430560
+
+------ Excecução Total encerrada em: 2021-04-25 16:53:28.320738
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:53:59.791933
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:54:32.456077
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:54:32.456077
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:55:07.260343
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:55:07.260343
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:56:03.231484
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:56:03.231484
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:56:03.231484
+
+------ Excecução Total encerrada em: 2021-04-25 16:56:05.231007
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:56:31.626181
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:57:04.805866
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:57:04.805866
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 16:57:39.750689
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 16:57:39.750689
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 16:58:35.565611
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 16:58:35.565611
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 16:58:35.565611
+
+------ Excecução Total encerrada em: 2021-04-25 16:58:37.487031
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 16:59:05.647118
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 16:59:38.748665
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 16:59:38.748665
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:00:13.646691
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:00:13.646691
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:01:10.008362
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:01:10.008362
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:01:10.008362
+
+------ Excecução Total encerrada em: 2021-04-25 17:01:12.257794
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:01:41.071086
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:02:14.313223
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:02:14.313223
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:02:49.008148
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:02:49.008148
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:03:45.682266
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:03:45.682266
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:03:45.682266
+
+------ Excecução Total encerrada em: 2021-04-25 17:03:47.697384
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:06:45.253715
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:07:17.746032
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:07:17.746032
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:07:52.300357
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:07:52.300357
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:08:47.365456
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:08:47.365456
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:08:47.365456
+
+------ Excecução Total encerrada em: 2021-04-25 17:08:49.521196
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:09:57.423769
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:10:30.369101
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:10:30.369101
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:11:05.657631
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:11:05.657631
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:12:00.410301
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:12:00.410301
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:12:00.410301
+
+------ Excecução Total encerrada em: 2021-04-25 17:12:02.456692
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:12:32.251984
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:13:04.634949
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:13:04.634949
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:13:38.908091
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:13:38.908091
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:14:34.879225
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:14:34.879225
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:14:34.879225
+
+------ Excecução Total encerrada em: 2021-04-25 17:14:36.909996
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:15:17.239903
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:15:50.372691
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:15:50.372691
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:16:25.176959
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:16:25.176959
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:17:21.382445
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:17:21.382445
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:17:21.382445
+
+------ Excecução Total encerrada em: 2021-04-25 17:17:23.241349
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:18:05.236021
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:18:38.759310
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:18:38.759310
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:19:12.938751
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:19:12.938751
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:20:09.675302
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:20:09.675302
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:20:09.675302
+
+------ Excecução Total encerrada em: 2021-04-25 17:20:11.831044
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:20:39.715650
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:21:12.567255
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:21:12.567255
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:21:46.324893
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:21:46.324893
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:22:41.015110
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:22:41.015110
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:22:41.015110
+
+------ Excecução Total encerrada em: 2021-04-25 17:22:43.342656
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:23:11.358554
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:23:44.069568
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:23:44.069568
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:24:18.623892
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:24:18.623892
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:25:14.188872
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:25:14.188872
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:25:14.204494
+
+------ Excecução Total encerrada em: 2021-04-25 17:25:16.328995
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:25:43.313907
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:26:16.509212
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:26:16.509212
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:26:50.516763
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:26:50.516763
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:27:46.441031
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:27:46.441031
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:27:46.441031
+
+------ Excecução Total encerrada em: 2021-04-25 17:27:48.409316
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:30:05.732249
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:30:38.349540
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:30:38.349540
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:31:13.075692
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:31:13.075692
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:32:08.187687
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:32:08.187687
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:32:08.187687
+
+------ Excecução Total encerrada em: 2021-04-25 17:32:10.312155
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:32:37.577651
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:33:10.663575
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:33:10.663575
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:33:45.124173
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:33:45.124173
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:34:39.673770
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:34:39.673770
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:34:39.673770
+
+------ Excecução Total encerrada em: 2021-04-25 17:34:41.642055
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:36:22.276239
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:36:54.768567
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:36:54.768567
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:37:29.994596
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:37:29.994596
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:38:24.934756
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:38:24.934756
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:38:24.934756
+
+------ Excecução Total encerrada em: 2021-04-25 17:38:26.871768
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:43:50.265763
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:44:23.476648
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:44:23.476648
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:44:58.171566
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:44:58.171566
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:45:53.236665
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:45:53.236665
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:45:53.236665
+
+------ Excecução Total encerrada em: 2021-04-25 17:45:55.345546
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:51:50.626495
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:52:23.431230
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:52:23.431230
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:52:57.969935
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:52:57.969935
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:53:53.472430
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:53:53.472430
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:53:53.472430
+
+------ Excecução Total encerrada em: 2021-04-25 17:53:55.815664
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:55:00.009440
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:55:32.532965
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:55:32.548587
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:56:06.556168
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:56:06.556168
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:57:02.339846
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:57:02.339846
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:57:02.339846
+
+------ Excecução Total encerrada em: 2021-04-25 17:57:04.401872
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 17:57:56.533848
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 17:58:29.479181
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 17:58:29.479181
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 17:59:03.252441
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 17:59:03.252441
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 17:59:57.770794
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 17:59:57.770794
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 17:59:57.770794
+
+------ Excecução Total encerrada em: 2021-04-25 17:59:59.785945
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 18:00:39.807495
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 18:01:13.268331
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 18:01:13.268331
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 18:01:47.760170
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 18:01:47.760170
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 18:02:43.996876
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 18:02:43.996876
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 18:02:44.012488
+
+------ Excecução Total encerrada em: 2021-04-25 18:02:45.949530
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 18:05:31.424759
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 18:06:04.573169
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 18:06:04.573169
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 18:06:38.736963
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 18:06:38.736963
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 18:07:35.192357
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 18:07:35.192357
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 18:07:35.192357
+
+------ Excecução Total encerrada em: 2021-04-25 18:07:37.113781
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 18:09:34.670655
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 18:10:07.084863
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 18:10:07.084863
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 18:10:41.186172
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 18:10:41.186172
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 18:11:36.532486
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 18:11:36.532486
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 18:11:36.532486
+
+------ Excecução Total encerrada em: 2021-04-25 18:11:38.469497
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 18:12:37.079489
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 18:13:10.446603
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 18:13:10.446603
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 18:13:45.594565
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 18:13:45.594565
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 18:14:41.862473
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 18:14:41.862473
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 18:14:41.862473
+
+------ Excecução Total encerrada em: 2021-04-25 18:14:44.174450
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 18:15:09.896633
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 18:15:42.670138
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 18:15:42.670138
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 18:16:16.974516
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 18:16:16.974516
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 18:17:12.617603
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 18:17:12.617603
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 18:17:12.633225
+
+------ Excecução Total encerrada em: 2021-04-25 18:17:14.710870
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 18:40:01.365689
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 18:40:34.295397
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 18:40:34.295397
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 18:41:09.458953
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 18:41:09.474576
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 18:42:04.445946
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 18:42:04.445946
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 18:42:04.445946
+
+------ Excecução Total encerrada em: 2021-04-25 18:42:06.617312
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 18:42:30.352295
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 18:43:03.500705
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 18:43:03.500705
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 18:43:38.429942
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 18:43:38.429942
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 18:44:34.588534
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 18:44:34.588534
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 18:44:34.588534
+
+------ Excecução Total encerrada em: 2021-04-25 18:44:36.634924
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 19:43:02.391570
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 19:43:43.688988
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 19:43:43.688988
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 19:44:18.917836
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 19:44:18.917836
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 19:45:13.799975
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 19:45:13.799975
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 19:45:13.799975
+
+------ Excecução Total encerrada em: 2021-04-25 19:45:16.096307
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 19:47:40.410508
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 19:48:14.261651
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 19:48:14.261651
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 19:48:48.510110
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 19:48:48.510110
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 19:49:47.958755
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 19:49:47.958755
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 19:49:47.958755
+
+------ Excecução Total encerrada em: 2021-04-25 19:49:49.943329
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 19:52:29.686850
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 19:53:06.588090
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 19:53:06.588090
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 19:53:41.708714
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 19:53:41.708714
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 19:54:37.330272
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 19:54:37.330272
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 19:54:37.330272
+
+------ Excecução Total encerrada em: 2021-04-25 19:54:39.689088
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 19:55:03.621775
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 19:55:37.493292
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 19:55:37.493292
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 19:56:12.215359
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 19:56:12.215359
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 19:57:08.052122
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 19:57:08.052122
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 19:57:08.052122
+
+------ Excecução Total encerrada em: 2021-04-25 19:57:10.036031
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:05:15.955533
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:06:14.757314
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:06:14.758289
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:07:08.819217
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:07:08.820194
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:08:13.444592
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:08:13.446586
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:08:13.447584
+
+------ Excecução Total encerrada em: 2021-04-25 20:08:16.293183
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:08:41.706075
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:09:15.942888
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:09:15.942888
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:09:50.845586
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:09:50.845586
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:10:47.196433
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:10:47.196433
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:10:47.196433
+
+------ Excecução Total encerrada em: 2021-04-25 20:10:49.274070
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:10:59.028221
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:11:33.488895
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:11:33.488895
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:12:08.529706
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:12:08.529706
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:13:10.200495
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:13:10.200495
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:13:10.200495
+
+------ Excecução Total encerrada em: 2021-04-25 20:13:12.515776
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:13:23.661526
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:14:01.081892
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:14:01.082890
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:14:40.296041
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:14:40.296041
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:15:38.340507
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:15:38.340507
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:15:38.340507
+
+------ Excecução Total encerrada em: 2021-04-25 20:15:40.480088
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:15:51.938871
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:16:26.610450
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:16:26.610450
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:17:01.609663
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:17:01.609663
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:17:57.040057
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:17:57.040057
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:17:57.040057
+
+------ Excecução Total encerrada em: 2021-04-25 20:17:59.103846
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:18:10.554959
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:18:43.381463
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:18:43.381463
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:19:24.257980
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:19:24.257980
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:20:26.518829
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:20:26.518829
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:20:26.518829
+
+------ Excecução Total encerrada em: 2021-04-25 20:20:28.724708
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:21:31.930797
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:22:09.959499
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:22:09.960498
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:22:49.770725
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:22:49.771722
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:23:49.750078
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:23:49.750078
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:23:49.751075
+
+------ Excecução Total encerrada em: 2021-04-25 20:23:51.953869
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:24:34.157604
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:25:11.743462
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:25:11.744459
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:25:54.684318
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:25:54.684318
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:27:00.645534
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:27:00.645534
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:27:00.646531
+
+------ Excecução Total encerrada em: 2021-04-25 20:27:03.300831
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:27:13.499370
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:27:52.155042
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:27:52.155042
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:28:28.166907
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:28:28.166907
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:29:28.542020
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:29:28.547027
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:29:28.547027
+
+------ Excecução Total encerrada em: 2021-04-25 20:29:30.761940
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:29:41.983067
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:30:16.019448
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:30:16.020446
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:30:51.060473
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:30:51.060473
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:31:49.276714
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:31:49.276714
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:31:49.277709
+
+------ Excecução Total encerrada em: 2021-04-25 20:31:51.689116
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:32:05.799519
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:32:42.959980
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:32:42.959980
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:33:20.138441
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:33:20.139436
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:34:20.858895
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:34:20.858895
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:34:20.858895
+
+------ Excecução Total encerrada em: 2021-04-25 20:34:22.910024
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:34:34.002934
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:35:10.197323
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:35:10.197323
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:35:47.609258
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:35:47.610255
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:36:51.371564
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:36:51.372562
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:36:51.373560
+
+------ Excecução Total encerrada em: 2021-04-25 20:36:53.903107
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:37:08.055666
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:37:44.154359
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:37:44.155358
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:38:20.677251
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:38:20.677251
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:39:18.494513
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:39:18.494513
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:39:18.494513
+
+------ Excecução Total encerrada em: 2021-04-25 20:39:20.754769
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:39:37.536677
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:40:11.800458
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:40:11.800458
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:40:46.573696
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:40:46.573696
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:41:43.038353
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:41:43.038353
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:41:43.038353
+
+------ Excecução Total encerrada em: 2021-04-25 20:41:45.183123
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:41:57.881775
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:42:31.892231
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:42:31.892231
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:43:07.688862
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:43:07.689859
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:44:13.175354
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:44:13.175354
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:44:13.175354
+
+------ Excecução Total encerrada em: 2021-04-25 20:44:15.647772
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:44:26.496437
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:45:00.675051
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:45:00.675051
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:45:36.460385
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:45:36.460385
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:46:37.886904
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:46:37.886904
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:46:37.886904
+
+------ Excecução Total encerrada em: 2021-04-25 20:46:40.192414
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:47:00.434874
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:47:34.248779
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:47:34.248779
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:48:09.483493
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:48:09.484490
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:54:09.588312
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:54:09.588312
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:54:09.588312
+
+------ Excecução Total encerrada em: 2021-04-25 20:54:11.603459
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:54:44.048170
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:55:19.208197
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:55:19.208197
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:55:54.280583
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:55:54.280583
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:56:51.689491
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:56:51.690486
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:56:51.691458
+
+------ Excecução Total encerrada em: 2021-04-25 20:56:53.946791
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:57:04.750082
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:57:39.271753
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:57:39.271753
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 20:58:14.820892
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 20:58:14.821889
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 20:59:09.172266
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 20:59:09.172266
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 20:59:09.173263
+
+------ Excecução Total encerrada em: 2021-04-25 20:59:11.203575
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 20:59:22.204674
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 20:59:57.913594
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 20:59:57.913594
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:00:38.218399
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:00:38.218399
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:01:33.999170
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:01:34.000164
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:01:34.000164
+
+------ Excecução Total encerrada em: 2021-04-25 21:01:36.292204
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:01:46.045606
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:02:20.953659
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:02:20.953659
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:02:55.963017
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:02:55.963017
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:03:50.774922
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:03:50.775919
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:03:50.775919
+
+------ Excecução Total encerrada em: 2021-04-25 21:03:52.851792
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:04:03.017040
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:04:42.539954
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:04:42.540947
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:05:25.653672
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:05:25.654668
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:06:23.621731
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:06:23.621731
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:06:23.637357
+
+------ Excecução Total encerrada em: 2021-04-25 21:06:25.759666
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:06:36.094886
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:07:13.955735
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:07:13.955735
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:07:50.465520
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:07:50.466516
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:08:47.288237
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:08:47.288237
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:08:47.288237
+
+------ Excecução Total encerrada em: 2021-04-25 21:08:49.519775
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:08:59.571244
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:09:34.084969
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:09:34.084969
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:10:09.066128
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:10:09.067126
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:11:06.480972
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:11:06.480972
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:11:06.480972
+
+------ Excecução Total encerrada em: 2021-04-25 21:11:08.610494
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:11:20.162635
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:11:54.810354
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:11:54.810354
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:12:30.788778
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:12:30.789776
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:13:28.903046
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:13:28.903046
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:13:28.903046
+
+------ Excecução Total encerrada em: 2021-04-25 21:13:31.256693
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:13:41.144726
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:14:14.932776
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:14:14.933772
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:14:50.091222
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:14:50.091222
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:15:47.231189
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:15:47.231189
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:15:47.231189
+
+------ Excecução Total encerrada em: 2021-04-25 21:15:49.450141
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:21:24.822717
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:21:58.555934
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:21:58.555934
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:22:53.055856
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:22:53.056849
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:24:53.974118
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:24:53.974118
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:24:53.974118
+
+------ Excecução Total encerrada em: 2021-04-25 21:24:56.207198
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:26:14.910214
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:26:52.527891
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:26:52.527891
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:27:57.202733
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:27:57.203708
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:30:44.944880
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:30:44.945849
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:30:44.945849
+
+------ Excecução Total encerrada em: 2021-04-25 21:30:47.170512
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:31:03.182444
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:31:38.841371
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:31:38.843324
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:32:37.284641
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:32:37.285617
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:34:49.260961
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:34:49.261937
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:34:49.262914
+
+------ Excecução Total encerrada em: 2021-04-25 21:34:51.359712
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:35:04.689495
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:35:42.712857
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:35:42.713832
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:36:49.303580
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:36:49.305531
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:39:04.749150
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:39:04.749150
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:39:04.749150
+
+------ Excecução Total encerrada em: 2021-04-25 21:39:07.297983
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:39:21.286692
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:40:00.902999
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:40:00.903976
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:41:02.098397
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:41:02.099359
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:43:14.955598
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:43:14.956574
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:43:14.957518
+
+------ Excecução Total encerrada em: 2021-04-25 21:43:17.338938
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:43:30.455874
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:44:05.608096
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:44:05.608096
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:45:02.954038
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:45:02.955013
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:47:04.275357
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:47:04.276333
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:47:04.277309
+
+------ Excecução Total encerrada em: 2021-04-25 21:47:06.733425
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:47:20.149292
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:47:58.623183
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:47:58.624160
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:48:57.043805
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:48:57.044782
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:51:04.298648
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:51:04.299624
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:51:04.299624
+
+------ Excecução Total encerrada em: 2021-04-25 21:51:06.616579
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:51:17.820744
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:51:54.532537
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:51:54.532537
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:52:49.835382
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:52:49.836359
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:54:51.311556
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:54:51.313475
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:54:51.313475
+
+------ Excecução Total encerrada em: 2021-04-25 21:54:54.007027
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:55:05.945301
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:55:42.426055
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:55:42.427031
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 21:56:39.286051
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 21:56:39.287027
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 21:58:42.897555
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 21:58:42.898529
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 21:58:42.898529
+
+------ Excecução Total encerrada em: 2021-04-25 21:58:45.510709
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-25 21:58:59.041903
+
+------ Excecução P20 Infestado encerrada em: 2021-04-25 21:59:33.874592
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-25 21:59:33.875569
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-25 22:00:29.397392
+
+------ Excecução P21 Infestado iniciada em: 2021-04-25 22:00:29.398368
+
+------ Excecução P21 Infestado encerrada em: 2021-04-25 22:02:33.572290
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-25 22:02:33.573278
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-25 22:02:33.574244
+
+------ Excecução Total encerrada em: 2021-04-25 22:02:35.951160
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 18:49:18.861957
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 18:50:08.529848
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 18:50:08.540584
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 18:51:13.358028
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 18:51:13.358999
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 18:53:31.270132
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 18:53:31.271108
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 18:53:31.273075
+
+------ Excecução Total encerrada em: 2021-04-26 18:53:43.396066
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 18:55:15.300439
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 18:55:56.744121
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 18:55:56.745097
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 18:57:04.010627
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 18:57:04.011602
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 18:59:25.037070
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 18:59:25.037070
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 18:59:25.038044
+
+------ Excecução Total encerrada em: 2021-04-26 18:59:27.730044
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 18:59:41.888885
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:00:22.776316
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:00:22.776316
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:01:25.372595
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:01:25.373570
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:03:42.763618
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:03:42.764594
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:03:42.764594
+
+------ Excecução Total encerrada em: 2021-04-26 19:03:44.930778
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:04:09.876031
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:04:46.137742
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:04:46.137742
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:05:41.450694
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:05:41.451670
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:07:41.371565
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:07:41.371565
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:07:41.372541
+
+------ Excecução Total encerrada em: 2021-04-26 19:07:43.692695
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:08:51.377279
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:09:34.313125
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:09:34.314103
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:10:34.924225
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:10:34.925201
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:12:41.908499
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:12:41.909474
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:12:41.910451
+
+------ Excecução Total encerrada em: 2021-04-26 19:12:43.979328
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:12:54.342019
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:13:32.237234
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:13:32.238210
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:14:32.320438
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:14:32.321414
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:17:01.380064
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:17:01.381041
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:17:01.381041
+
+------ Excecução Total encerrada em: 2021-04-26 19:17:03.790985
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:17:25.284182
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:18:03.185287
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:18:03.185287
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:19:13.427365
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:19:13.428341
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:21:30.465758
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:21:30.466745
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:21:30.466745
+
+------ Excecução Total encerrada em: 2021-04-26 19:21:33.723529
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:21:44.687446
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:22:29.669800
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:22:29.669800
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:23:30.472957
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:23:30.472957
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:25:55.875061
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:25:55.875061
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:25:55.876035
+
+------ Excecução Total encerrada em: 2021-04-26 19:25:57.950890
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:26:09.613911
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:26:47.844951
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:26:47.844951
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:27:48.849721
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:27:48.850696
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:29:50.875601
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:29:50.875601
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:29:50.876577
+
+------ Excecução Total encerrada em: 2021-04-26 19:29:53.547621
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:30:06.061106
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:30:41.142387
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:30:41.142387
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:31:40.343903
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:31:40.343903
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:33:52.769877
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:33:52.769877
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:33:52.770851
+
+------ Excecução Total encerrada em: 2021-04-26 19:33:54.935045
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:35:22.355614
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:36:02.452305
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:36:02.453280
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:37:04.169697
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:37:04.169697
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:39:05.989185
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:39:05.990161
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:39:05.991139
+
+------ Excecução Total encerrada em: 2021-04-26 19:39:08.083411
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:39:57.691701
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:40:33.548377
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:40:33.548377
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:41:30.180673
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:41:30.180673
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:43:28.637308
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:43:28.638284
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:43:28.638284
+
+------ Excecução Total encerrada em: 2021-04-26 19:43:30.737002
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:43:41.151553
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:44:16.338675
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:44:16.338675
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:45:11.775374
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:45:11.775374
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:47:15.284855
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:47:15.285830
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:47:15.285830
+
+------ Excecução Total encerrada em: 2021-04-26 19:47:17.417218
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:47:28.321388
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:48:04.172044
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:48:04.172044
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:49:11.159658
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:49:11.160634
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:51:11.913387
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:51:11.914363
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:51:11.915341
+
+------ Excecução Total encerrada em: 2021-04-26 19:51:14.304335
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:55:00.469045
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:55:40.359944
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:55:40.360921
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 19:56:44.300361
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 19:56:44.301337
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 19:58:57.412786
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 19:58:57.413763
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 19:58:57.414740
+
+------ Excecução Total encerrada em: 2021-04-26 19:58:59.853276
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 19:59:09.828598
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 19:59:49.526163
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 19:59:49.527140
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:00:45.531083
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:00:45.532059
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:02:48.330620
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:02:48.330620
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:02:48.331593
+
+------ Excecução Total encerrada em: 2021-04-26 20:02:50.761311
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:03:02.723116
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:03:36.903412
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:03:36.903412
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:04:33.602075
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:04:33.603051
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:06:32.254302
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:06:32.255266
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:06:32.255266
+
+------ Excecução Total encerrada em: 2021-04-26 20:06:34.531985
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:06:44.825709
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:07:19.571927
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:07:19.572903
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:08:16.481576
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:08:16.482551
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:10:18.113402
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:10:18.114379
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:10:18.114379
+
+------ Excecução Total encerrada em: 2021-04-26 20:10:20.323853
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:10:30.583623
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:11:06.149174
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:11:06.149174
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:12:01.603558
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:12:01.604535
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:14:05.055944
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:14:05.055944
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:14:05.055944
+
+------ Excecução Total encerrada em: 2021-04-26 20:14:07.327091
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:14:17.913731
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:14:53.370767
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:14:53.371744
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:15:55.385975
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:15:55.385975
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:17:57.329001
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:17:57.329001
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:17:57.329001
+
+------ Excecução Total encerrada em: 2021-04-26 20:17:59.532692
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:18:17.301908
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:18:52.324981
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:18:52.325958
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:19:49.999199
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:19:50.000176
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:21:51.663095
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:21:51.665014
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:21:51.665994
+
+------ Excecução Total encerrada em: 2021-04-26 20:21:53.876950
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:22:40.198509
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:23:15.942382
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:23:15.943357
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:24:11.619586
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:24:11.619586
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:26:15.157888
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:26:15.158863
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:26:15.158863
+
+------ Excecução Total encerrada em: 2021-04-26 20:26:17.516544
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:26:29.708804
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:27:04.834148
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:27:04.834148
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:28:01.678697
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:28:01.679673
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:30:04.942578
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:30:04.943553
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:30:04.943553
+
+------ Excecução Total encerrada em: 2021-04-26 20:30:07.250874
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:30:19.535487
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:30:59.252350
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:30:59.253326
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:32:11.813696
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:32:11.814685
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:34:14.516196
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:34:14.517171
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:34:14.517171
+
+------ Excecução Total encerrada em: 2021-04-26 20:34:17.023534
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:34:27.702562
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:35:08.424619
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:35:08.424619
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:36:11.154061
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:36:11.154061
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:38:27.757914
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:38:27.759866
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:38:27.759866
+
+------ Excecução Total encerrada em: 2021-04-26 20:38:30.470955
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:38:59.158029
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:39:38.714028
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:39:38.715003
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:40:42.046665
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:40:42.047641
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:42:45.865082
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:42:45.865982
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:42:45.866958
+
+------ Excecução Total encerrada em: 2021-04-26 20:42:48.199595
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:43:03.659125
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:43:38.911425
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:43:38.912400
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:44:38.488880
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:44:38.488880
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:46:44.245555
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:46:44.246530
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:46:44.247481
+
+------ Excecução Total encerrada em: 2021-04-26 20:46:46.661370
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:47:59.305882
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:48:36.350229
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:48:36.350229
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:49:42.699522
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:49:42.699522
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:51:46.953106
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:51:46.954085
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:51:46.955029
+
+------ Excecução Total encerrada em: 2021-04-26 20:51:49.280831
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:51:59.585136
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:52:37.474619
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:52:37.475595
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:53:38.648568
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:53:38.648568
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:55:45.926747
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:55:45.926747
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:55:45.927724
+
+------ Excecução Total encerrada em: 2021-04-26 20:55:47.998041
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 20:56:00.208156
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 20:56:35.675951
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 20:56:35.675951
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 20:57:37.130566
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 20:57:37.130566
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 20:59:56.118674
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 20:59:56.118674
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 20:59:56.119650
+
+------ Excecução Total encerrada em: 2021-04-26 20:59:59.884665
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:00:26.956466
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:01:06.249589
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:01:06.251539
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:02:07.461267
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:02:07.463219
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:04:13.620474
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:04:13.621451
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:04:13.622397
+
+------ Excecução Total encerrada em: 2021-04-26 21:04:15.745683
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:04:43.927379
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:05:18.668175
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:05:18.670126
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:06:14.162553
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:06:14.163528
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:08:17.393062
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:08:17.395015
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:08:17.395990
+
+------ Excecução Total encerrada em: 2021-04-26 21:08:19.636882
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:11:11.001388
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:11:48.086665
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:11:48.087640
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:12:46.654365
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:12:46.655340
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:14:56.835770
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:14:56.836746
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:14:56.836746
+
+------ Excecução Total encerrada em: 2021-04-26 21:14:59.286067
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:22:54.662139
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:23:32.704794
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:23:32.705769
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:24:29.272821
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:24:29.273788
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:26:46.686435
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:26:46.687411
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:26:46.687411
+
+------ Excecução Total encerrada em: 2021-04-26 21:26:49.243118
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:27:11.110135
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:27:49.316888
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:27:49.316888
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:28:52.076967
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:28:52.077944
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:31:15.191595
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:31:15.191595
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:31:15.192571
+
+------ Excecução Total encerrada em: 2021-04-26 21:31:17.582222
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:32:01.728408
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:32:38.808708
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:32:38.809684
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:33:42.922032
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:33:42.922032
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:35:54.615733
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:35:54.615733
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:35:54.616707
+
+------ Excecução Total encerrada em: 2021-04-26 21:35:56.879457
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:36:09.384002
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:36:51.521419
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:36:51.522395
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:37:53.361982
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:37:53.362958
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:39:56.956842
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:39:56.957824
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:39:56.957824
+
+------ Excecução Total encerrada em: 2021-04-26 21:39:59.292171
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:40:24.137015
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:41:00.426368
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:41:00.427344
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:42:00.508989
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:42:00.509965
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:44:15.354214
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:44:15.355159
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:44:15.356136
+
+------ Excecução Total encerrada em: 2021-04-26 21:44:17.329167
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:44:28.196616
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:45:04.226357
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:45:43.887079
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:46:21.126628
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:46:21.126628
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:47:29.131548
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:47:29.132524
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:49:41.401319
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:49:41.402296
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:49:41.402296
+
+------ Excecução Total encerrada em: 2021-04-26 21:49:43.832477
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:50:09.480129
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:50:45.012496
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:50:45.013484
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:51:42.141776
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:51:42.141776
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:53:42.900274
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:53:42.901250
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:53:42.901250
+
+------ Excecução Total encerrada em: 2021-04-26 21:53:45.317390
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:53:58.443870
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:54:33.215514
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:54:33.216490
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:55:29.613648
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:55:29.613648
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 21:57:31.139088
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 21:57:31.139088
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 21:57:31.140065
+
+------ Excecução Total encerrada em: 2021-04-26 21:57:33.208221
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 21:57:50.033987
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 21:58:27.508515
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 21:58:27.508515
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 21:59:24.935273
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 21:59:24.935273
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 22:01:27.259536
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 22:01:27.260513
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 22:01:27.260513
+
+------ Excecução Total encerrada em: 2021-04-26 22:01:29.480462
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 22:01:45.847474
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 22:02:21.241720
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 22:02:21.242695
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 22:03:18.936890
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 22:03:18.936890
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 22:05:24.921098
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 22:05:24.922074
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 22:05:24.922074
+
+------ Excecução Total encerrada em: 2021-04-26 22:05:27.349379
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 22:05:37.221553
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 22:06:11.834458
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 22:06:11.835434
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 22:07:07.630927
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 22:07:07.630927
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 22:09:17.633269
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 22:09:17.634245
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 22:09:17.635221
+
+------ Excecução Total encerrada em: 2021-04-26 22:09:19.738226
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 22:09:36.480042
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 22:10:14.737025
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 22:10:14.737025
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 22:11:17.381593
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 22:11:17.382569
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 22:13:32.912085
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 22:13:32.913060
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 22:13:32.913060
+
+------ Excecução Total encerrada em: 2021-04-26 22:13:35.243497
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 22:13:45.420464
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 22:14:24.440156
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 22:14:24.441132
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 22:15:34.766547
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 22:15:34.766547
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 22:17:43.695226
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 22:17:43.695226
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 22:17:43.696200
+
+------ Excecução Total encerrada em: 2021-04-26 22:17:45.701394
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 22:18:18.277679
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 22:18:58.209860
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 22:18:58.210835
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 22:20:00.444789
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 22:20:00.445767
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 22:22:13.779650
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 22:22:13.780627
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 22:22:13.780627
+
+------ Excecução Total encerrada em: 2021-04-26 22:22:16.107459
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 22:22:36.035011
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 22:23:12.135471
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 22:23:12.136448
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 22:24:13.875386
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 22:24:13.875386
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 22:26:14.994620
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 22:26:14.995597
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 22:26:14.996573
+
+------ Excecução Total encerrada em: 2021-04-26 22:26:17.091574
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 22:41:13.951762
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 22:41:50.803534
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 22:41:50.805485
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 22:42:48.147877
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 22:42:48.147877
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 22:44:46.740733
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 22:44:46.741706
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 22:44:46.742651
+
+------ Excecução Total encerrada em: 2021-04-26 22:44:49.069803
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 22:51:57.741631
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 22:52:37.944451
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 22:52:37.945427
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 22:53:41.295182
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 22:53:41.296160
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 22:56:02.728978
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 22:56:02.728978
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 22:56:02.729954
+
+------ Excecução Total encerrada em: 2021-04-26 22:56:05.280386
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 22:56:22.531733
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 22:57:01.991069
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 22:57:01.992044
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 22:58:07.680074
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 22:58:07.680074
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:00:23.786498
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:00:23.787474
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:00:23.787474
+
+------ Excecução Total encerrada em: 2021-04-26 23:00:26.114094
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:00:47.311842
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:01:28.182308
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:01:28.183283
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:02:31.325982
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:02:31.326959
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:04:54.261267
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:04:54.262244
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:04:54.262244
+
+------ Excecução Total encerrada em: 2021-04-26 23:04:56.885226
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:05:09.683724
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:05:46.432119
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:05:46.433094
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:06:47.118512
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:06:47.119488
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:09:01.134390
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:09:01.134390
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:09:01.135366
+
+------ Excecução Total encerrada em: 2021-04-26 23:09:03.652792
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:09:19.463187
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:09:58.556250
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:09:58.556250
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:10:59.689821
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:10:59.690797
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:13:09.745223
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:13:09.745223
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:13:09.746199
+
+------ Excecução Total encerrada em: 2021-04-26 23:13:12.509211
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:13:32.558092
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:14:08.954396
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:14:08.955372
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:15:08.596037
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:15:08.596037
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:17:21.321020
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:17:21.321996
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:17:21.321996
+
+------ Excecução Total encerrada em: 2021-04-26 23:17:23.481842
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:17:35.338855
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:18:14.619286
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:18:14.619286
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:19:11.791588
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:19:11.791588
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:21:25.934483
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:21:25.934483
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:21:25.935428
+
+------ Excecução Total encerrada em: 2021-04-26 23:21:29.018872
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:21:42.105806
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:22:22.781744
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:22:22.782720
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:23:25.313144
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:23:25.314120
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:25:38.079389
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:25:38.080368
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:25:38.081314
+
+------ Excecução Total encerrada em: 2021-04-26 23:25:40.917114
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:25:51.952384
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:26:28.594785
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:26:28.596737
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:27:32.835364
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:27:32.836340
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:29:51.574288
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:29:51.574288
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:29:51.575265
+
+------ Excecução Total encerrada em: 2021-04-26 23:29:54.110190
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:30:07.750803
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:30:43.525051
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:30:43.525051
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:31:39.361201
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:31:39.362177
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:33:41.795298
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:33:41.796272
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:33:41.796272
+
+------ Excecução Total encerrada em: 2021-04-26 23:33:44.315488
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:36:26.653324
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:37:06.744002
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:37:06.744002
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:38:11.851789
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:38:11.852767
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:40:25.479608
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:40:25.480584
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:40:25.480584
+
+------ Excecução Total encerrada em: 2021-04-26 23:40:27.784915
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:40:43.778046
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:41:20.455491
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:41:20.455491
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:42:25.885435
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:42:25.886411
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:44:41.639374
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:44:41.640351
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:44:41.640351
+
+------ Excecução Total encerrada em: 2021-04-26 23:44:43.702834
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:44:59.816123
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:45:40.173821
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:45:40.174797
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:46:48.948162
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:46:48.949136
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:49:06.458632
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:49:06.458632
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:49:06.459609
+
+------ Excecução Total encerrada em: 2021-04-26 23:49:08.887181
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:49:24.863947
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:50:00.681362
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:50:00.682338
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:51:09.299777
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:51:09.300753
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:53:13.800961
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:53:13.801967
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:53:13.802914
+
+------ Excecução Total encerrada em: 2021-04-26 23:53:16.145852
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:53:31.603047
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:54:08.574622
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:54:08.574622
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:55:06.518691
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:55:06.519667
+
+------ Excecução P21 Infestado encerrada em: 2021-04-26 23:57:10.116704
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-26 23:57:10.116704
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-26 23:57:10.117675
+
+------ Excecução Total encerrada em: 2021-04-26 23:57:12.219631
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-26 23:57:26.630340
+
+------ Excecução P20 Infestado encerrada em: 2021-04-26 23:58:01.795957
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-26 23:58:01.795957
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-26 23:58:59.654640
+
+------ Excecução P21 Infestado iniciada em: 2021-04-26 23:58:59.654640
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:01:02.946831
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:01:02.947806
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:01:02.947806
+
+------ Excecução Total encerrada em: 2021-04-27 00:01:05.710530
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:01:19.399329
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:01:58.485133
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:01:58.486114
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:03:03.346516
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:03:03.346516
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:05:16.981258
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:05:16.981258
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:05:16.981258
+
+------ Excecução Total encerrada em: 2021-04-27 00:05:19.429786
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:05:31.138407
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:06:08.040722
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:06:08.041697
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:07:11.051903
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:07:11.051903
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:09:31.032521
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:09:31.033497
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:09:31.033497
+
+------ Excecução Total encerrada em: 2021-04-27 00:09:33.155264
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:09:51.583251
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:10:27.228235
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:10:27.229211
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:11:28.355738
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:11:28.356714
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:13:32.335071
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:13:32.335071
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:13:32.336046
+
+------ Excecução Total encerrada em: 2021-04-27 00:13:34.793046
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:13:49.897870
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:14:29.062427
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:14:29.062427
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:15:34.846593
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:15:34.847570
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:17:44.235526
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:17:44.236499
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:17:44.236499
+
+------ Excecução Total encerrada em: 2021-04-27 00:17:46.411870
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:19:45.056888
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:20:27.153408
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:20:27.153408
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:21:33.633966
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:21:33.633966
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:23:46.666450
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:23:46.667427
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:23:46.667427
+
+------ Excecução Total encerrada em: 2021-04-27 00:23:50.539226
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:24:14.027619
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:24:54.525401
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:24:54.525401
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:25:54.831355
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:25:54.832329
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:28:11.312582
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:28:11.313558
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:28:11.313558
+
+------ Excecução Total encerrada em: 2021-04-27 00:28:13.445516
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:28:25.552454
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:29:02.023703
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:29:02.024679
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:30:05.065277
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:30:05.066252
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:32:18.093322
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:32:18.094298
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:32:18.095276
+
+------ Excecução Total encerrada em: 2021-04-27 00:32:20.325300
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:32:36.253993
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:33:16.683528
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:33:16.685481
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:34:21.112458
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:34:21.113433
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:36:39.265982
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:36:39.265982
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:36:39.266956
+
+------ Excecução Total encerrada em: 2021-04-27 00:36:41.607408
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:36:52.365662
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:37:26.673746
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:37:26.674722
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:38:23.610576
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:38:23.611555
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:40:21.473247
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:40:21.474235
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:40:21.474235
+
+------ Excecução Total encerrada em: 2021-04-27 00:40:23.639344
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:42:26.649243
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:43:04.088106
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:43:04.088106
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:44:08.978542
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:44:08.979526
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:46:10.323423
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:46:10.324400
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:46:10.325375
+
+------ Excecução Total encerrada em: 2021-04-27 00:46:12.663867
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:46:24.021987
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:47:08.408307
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:47:08.409303
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:48:09.499846
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:48:09.500843
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:50:23.919222
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:50:23.920218
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:50:23.920218
+
+------ Excecução Total encerrada em: 2021-04-27 00:50:26.283873
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:50:37.445993
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:51:15.362765
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:51:15.363764
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:52:24.545495
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:52:24.546492
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:54:43.964740
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:54:43.964740
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:54:43.965737
+
+------ Excecução Total encerrada em: 2021-04-27 00:54:46.464950
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 00:55:00.104275
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 00:55:36.994405
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 00:55:36.994405
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 00:56:34.391831
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 00:56:34.392828
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 00:58:41.669753
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 00:58:41.670750
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 00:58:41.672714
+
+------ Excecução Total encerrada em: 2021-04-27 00:58:44.034993
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 01:01:13.585247
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 01:01:48.819694
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 01:01:48.820691
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 01:02:44.972019
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 01:02:44.973017
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 01:04:46.482486
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 01:04:46.482486
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 01:04:46.482486
+
+------ Excecução Total encerrada em: 2021-04-27 01:04:48.547265
+
+------Uniao ModeloOriginal Excecução iniciada em: 2021-04-27 01:05:03.253506
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 01:05:37.506557
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 01:05:37.508552
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 01:06:33.445973
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 01:06:33.447967
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 01:08:37.334393
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 01:08:37.334393
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 01:08:37.334393
+
+------ Excecução Total encerrada em: 2021-04-27 01:08:39.470978
+
+------ Excecução iniciada em: 2021-04-27 16:43:17.267038
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 16:46:25.264441
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 16:46:25.265430
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 16:49:18.392287
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 16:49:18.392287
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 16:52:10.126879
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 16:52:10.127879
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 16:55:05.621973
+
+------ Excecução Total encerrada em: 2021-04-27 16:55:14.061923
+
+------ Excecução iniciada em: 2021-04-27 16:59:17.151935
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 17:01:57.784180
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 17:01:57.785176
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 17:05:06.891159
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 17:05:06.891159
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 17:08:27.646930
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 17:08:27.647927
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 17:11:48.067686
+
+------ Excecução Total encerrada em: 2021-04-27 17:11:57.897104
+
+------ Excecução iniciada em: 2021-04-27 17:12:46.563137
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 17:15:42.648758
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 17:15:42.649754
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 17:18:56.852089
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 17:18:56.853087
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 17:22:20.172970
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 17:22:20.173989
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 17:25:43.956243
+
+------ Excecução Total encerrada em: 2021-04-27 17:25:54.234386
+
+------ Excecução iniciada em: 2021-04-27 17:26:10.740928
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 17:29:21.610774
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 17:29:21.612770
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 17:32:44.856268
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 17:32:44.857263
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 17:36:18.018054
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 17:36:18.019047
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 17:39:46.553944
+
+------ Excecução Total encerrada em: 2021-04-27 17:39:57.037691
+
+------ Excecução iniciada em: 2021-04-27 17:40:25.250013
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 17:43:48.352636
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 17:43:48.353633
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 17:47:17.930858
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 17:47:17.930858
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 17:50:51.125531
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 17:50:51.126053
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 17:52:43.952734
+
+------ Excecução Total encerrada em: 2021-04-27 17:52:49.065974
+
+------ Excecução iniciada em: 2021-04-27 17:53:13.232398
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 17:54:43.553662
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 17:54:43.554659
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 17:56:05.790102
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 17:56:05.790102
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 17:57:35.561421
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 17:57:35.561421
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 17:59:04.065359
+
+------ Excecução Total encerrada em: 2021-04-27 17:59:07.786826
+
+------ Excecução iniciada em: 2021-04-27 17:59:45.376196
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 18:01:00.879964
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 18:01:00.879964
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 18:02:14.696717
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 18:02:14.712340
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 18:03:32.884017
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 18:03:32.884017
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 18:04:59.103942
+
+------ Excecução Total encerrada em: 2021-04-27 18:05:02.527239
+
+------ Excecução iniciada em: 2021-04-27 18:05:57.594867
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 18:07:14.523669
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 18:07:14.523669
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 18:08:29.505049
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 18:08:29.520671
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 18:09:48.338095
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 18:09:48.338095
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 18:11:07.534749
+
+------ Excecução Total encerrada em: 2021-04-27 18:11:10.659009
+
+------ Excecução iniciada em: 2021-04-27 18:11:27.128515
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 18:12:44.157424
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 18:12:44.157424
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 18:13:57.362357
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 18:13:57.362357
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 18:15:14.363751
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 18:15:14.363751
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 18:16:32.138378
+
+------ Excecução Total encerrada em: 2021-04-27 18:16:35.233456
+
+------ Excecução iniciada em: 2021-04-27 18:17:03.574787
+
+------ Excecução P20 Infestado encerrada em: 2021-04-27 18:18:18.469188
+
+------ Excecução P20 Mirapasto iniciada em: 2021-04-27 18:18:18.469188
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 18:19:35.909836
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 18:19:35.909836
+
+------ Excecução P21 Infestado encerrada em: 2021-04-27 18:20:51.131818
+
+------ Excecução P21 Mirapasto iniciada em: 2021-04-27 18:20:51.131818
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 18:22:07.993121
+
+------ Excecução Total encerrada em: 2021-04-27 18:22:11.289184
+
+------ Excecução iniciada em: 2021-04-27 18:59:02.127451
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:00:22.225575
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:00:22.225575
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:01:45.536666
+
+------ Excecução iniciada em: 2021-04-27 19:04:58.032472
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:06:23.043188
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:06:23.043188
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:07:38.591226
+
+------ Excecução Total encerrada em: 2021-04-27 19:07:40.340813
+
+------ Excecução iniciada em: 2021-04-27 19:29:41.386085
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:30:59.515375
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:30:59.515375
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:32:14.033316
+
+------ Excecução Total encerrada em: 2021-04-27 19:32:15.725834
+
+------ Excecução iniciada em: 2021-04-27 19:32:36.323649
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:33:52.999021
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:33:52.999021
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:35:16.273589
+
+------ Excecução Total encerrada em: 2021-04-27 19:35:17.929431
+
+------ Excecução iniciada em: 2021-04-27 19:35:29.662179
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:36:44.957603
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:36:44.959601
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:38:11.634347
+
+------ Excecução Total encerrada em: 2021-04-27 19:38:14.617368
+
+------ Excecução iniciada em: 2021-04-27 19:38:24.339196
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:39:57.896874
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:39:57.896874
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:41:24.831787
+
+------ Excecução Total encerrada em: 2021-04-27 19:41:26.842291
+
+------ Excecução iniciada em: 2021-04-27 19:41:44.000567
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:43:05.256026
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:43:05.256026
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:44:26.293731
+
+------ Excecução Total encerrada em: 2021-04-27 19:44:28.697128
+
+------ Excecução iniciada em: 2021-04-27 19:44:53.607754
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:46:24.136570
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:46:24.137567
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:48:00.448908
+
+------ Excecução Total encerrada em: 2021-04-27 19:48:02.592652
+
+------ Excecução iniciada em: 2021-04-27 19:48:14.727860
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:49:42.151484
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:49:42.152481
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:51:10.316235
+
+------ Excecução Total encerrada em: 2021-04-27 19:51:12.240366
+
+------ Excecução iniciada em: 2021-04-27 19:51:25.853456
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:52:52.384658
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:52:52.384658
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:54:20.777169
+
+------ Excecução Total encerrada em: 2021-04-27 19:54:23.096868
+
+------ Excecução iniciada em: 2021-04-27 19:54:36.978379
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 19:55:54.103338
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 19:55:54.103338
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 19:57:11.087868
+
+------ Excecução Total encerrada em: 2021-04-27 19:57:12.676571
+
+------ Excecução iniciada em: 2021-04-27 20:00:00.685909
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:02:12.372607
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:02:12.373606
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:04:10.335714
+
+------ Excecução Total encerrada em: 2021-04-27 20:04:12.196885
+
+------ Excecução iniciada em: 2021-04-27 20:05:58.493158
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:07:51.351657
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:07:51.351657
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:09:48.961232
+
+------ Excecução Total encerrada em: 2021-04-27 20:09:50.809299
+
+------ Excecução iniciada em: 2021-04-27 20:10:44.042182
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:12:37.650280
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:12:37.665903
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:14:35.104167
+
+------ Excecução Total encerrada em: 2021-04-27 20:14:36.933372
+
+------ Excecução iniciada em: 2021-04-27 20:14:57.354183
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:16:53.756820
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:16:53.756820
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:18:50.624180
+
+------ Excecução Total encerrada em: 2021-04-27 20:18:52.405009
+
+------ Excecução iniciada em: 2021-04-27 20:19:04.333426
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:20:58.444108
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:20:58.444108
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:22:56.615653
+
+------ Excecução Total encerrada em: 2021-04-27 20:22:58.366863
+
+------ Excecução iniciada em: 2021-04-27 20:23:09.239142
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:25:06.947584
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:25:06.947584
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:27:03.305787
+
+------ Excecução Total encerrada em: 2021-04-27 20:27:04.852301
+
+------ Excecução iniciada em: 2021-04-27 20:27:16.194974
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:29:12.921684
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:29:12.922681
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:31:10.778440
+
+------ Excecução Total encerrada em: 2021-04-27 20:31:12.543992
+
+------ Excecução iniciada em: 2021-04-27 20:31:21.534302
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:33:32.190673
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:33:32.191673
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:35:28.650469
+
+------ Excecução Total encerrada em: 2021-04-27 20:35:30.446919
+
+------ Excecução iniciada em: 2021-04-27 20:35:41.965210
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:37:35.930334
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:37:35.930334
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:39:37.435705
+
+------ Excecução Total encerrada em: 2021-04-27 20:39:39.493761
+
+------ Excecução iniciada em: 2021-04-27 20:39:52.515865
+
+------ Excecução P20 Mirapasto encerrada em: 2021-04-27 20:41:59.820980
+
+------ Excecução P21 Infestado iniciada em: 2021-04-27 20:41:59.820980
+
+------ Excecução P21 Mirapasto encerrada em: 2021-04-27 20:44:10.242620
+
+------ Excecução Total encerrada em: 2021-04-27 20:44:11.992214
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-27 21:06:28.015239
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-27 21:18:38.888874
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-27 21:20:46.977258
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-27 21:32:40.814837
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-27 22:01:35.124408
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-27 22:13:28.668924
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-27 22:17:40.384831
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-27 22:29:41.830786
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-27 22:31:31.550384
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-27 22:43:27.193845
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-27 23:34:49.987219
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-27 23:47:53.538620
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-27 23:48:04.485465
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-27 23:59:52.687418
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 00:00:06.947574
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 00:12:36.990358
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 00:12:51.990226
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 00:25:01.948055
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 00:27:34.747889
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 00:40:07.449206
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 00:40:35.318657
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 00:53:07.178967
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 00:54:51.701714
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 01:06:43.154645
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 01:07:06.522877
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 01:19:03.705866
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 01:19:25.226987
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 01:31:22.758104
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 01:31:42.834572
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 01:45:11.544450
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 01:45:39.635301
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 01:57:59.553649
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 01:58:15.253092
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 02:10:02.484587
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 02:10:17.793484
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 02:22:10.997275
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 02:22:22.807033
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 02:34:58.266774
+
+------Uniao Cristina ModeloAjustado Excecução iniciada em: 2021-04-28 02:35:15.153532
+
+------Uniao Cristina Excecução Total encerrada em: 2021-04-28 02:47:56.937403
+
+------Consolida dados ModeloAjustado ExcecuÃ§Ã£o iniciada em: 2024-03-08 13:20:35.502662
+
+
+Falha na conexÃ£o com o BD!------Consolida dados ModeloAjustado ExcecuÃ§Ã£o iniciada em: 2024-04-04 15:50:40.866879
+
+------Consolida dados ModeloAjustado ExcecuÃ§Ã£o encerrada em: 2024-04-04 15:50:40.926455
+
+------ ExcecuÃ§Ã£o iniciada em: 2024-04-04 15:51:54.605655
+

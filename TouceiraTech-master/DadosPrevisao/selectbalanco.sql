@@ -1,0 +1,1 @@
+select data, chuva, evapo from real_previsao order by data;

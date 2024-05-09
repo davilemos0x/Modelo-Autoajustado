@@ -1,0 +1,30 @@
+------ Excecução iniciada em: 2021-03-13 23:29:02.069922
+
+------Consolida dados Excecução iniciada em: 2021-03-13 23:29:46.162745
+
+------Consolida dados Excecução encerrada em: 2021-03-13 23:29:46.365822
+
+------Consolida dados Excecução iniciada em: 2021-03-13 23:30:29.228790
+
+------Consolida dados Excecução encerrada em: 2021-03-13 23:30:29.338132
+
+------Consolida dados Excecução iniciada em: 2021-03-14 17:29:54.178151
+
+------Consolida dados Excecução encerrada em: 2021-03-14 17:29:54.895277
+
+------Consolida dados Excecução iniciada em: 2021-03-14 17:31:21.591665
+
+------Consolida dados Excecução encerrada em: 2021-03-14 17:31:21.779121
+
+------Consolida dados Excecução iniciada em: 2021-03-14 17:45:17.728128
+
+------Consolida dados Excecução encerrada em: 2021-03-14 17:45:17.868746
+
+------Consolida dados Excecução iniciada em: 2021-03-14 17:45:55.414569
+
+------Consolida dados Excecução encerrada em: 2021-03-14 17:45:55.539540
+
+------Consolida dados Excecução iniciada em: 2021-04-03 18:30:16.976075
+
+------Consolida dados Excecução encerrada em: 2021-04-03 18:30:17.163531
+
